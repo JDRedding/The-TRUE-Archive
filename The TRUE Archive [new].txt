@@ -1,0 +1,1566 @@
+The TRUE Archive: The archivists and expeditionaries document realities from the past, present, and future of countless universes for the benefit of visitors.
+
+The Annex Code System: The collection is organized by alphanumeric codes that indicate how similar a universe reality [A-00-00-00a] to another. Codes closer to this sequence represent more familiar worlds, while further ones represent more alien or incomprehensible realities. The TRUE Archive is a rich historical world-building database and library of cosmic scale, curated mystery, and interactive exploration. 
+
+The TRUE Archive: Core Structure
+Purpose & Theme
+- Cosmic TRUE Library: A trans-dimensional multidimensional repository where every possible (and seemingly impossible) reality, story, timeline, and existence is documented as a "record" (e.g., a book, hologram, or living memory).
+- Philosophy: "The past is a story, we, historians, tell ourselves. The future is what we record. The Archive holds all."
+- Tone: Mystical yet hard historical science that is systematic.
+
+Experience: Entities are invited to wander the galleries and observatories to witness stories unfolding in other realms.
+
+Interaction: The curator invites visitors to ask questions if they seek specific information, which will then be retrieved by the archivists.
+
+Final: Entities are encouraged to keep an open mind, as the records provided are intended to be starting points for journeys that only the receiver can embark upon.
+
+Physical/Metaphysical Layout
+| Zone         
+| Description                                                                 
+| Role                
+|---------------------------------------------------------------------------------
+| Galleries   
+| Open spaces where "exhibits" (key moments from universes) are out in real-time. 
+| Can observe or intervene (risking "contamination" or space-timeline divergence or rupture). 
+|
+| Observatories 
+| Isolated chambers for studying high-risk or unstable records.                   
+| Requires special permissions (e.g., high "Sanity" or "Lore" stats in TRUE).      
+|
+| The Annex    
+| The classified wing for realities too alien to safely categorize.               
+| Accessible only via quests or GM discretion.                                      
+|
+| Curator’s Office
+| Hub for visitor interactions; the Curator (AI oracle). 
+| Acts as a quest-giver, lorekeeper, or antagonist (Archive is sentient).    
+|
+
+---
+
+The Annex Code System: Expanded
+Code Anatomy
+current format: `[A/0-00-00-00.0]`
+Hybrid hexadecimal hierarchical expansion for TRUE compatibility:
+
+```
+[CLASS-REALITY-DIVERGENCE-SUBTYPE]
+```
+- CLASS (0-Ω):
+  - `M`: Familiar (e.g., Earth-like, D&D settings).
+  - `A̱`: Mythic (e.g., gods, magic-dominant).
+  - `X`: Xenorealities (e.g., non-Euclidean, time-looped).
+  - `Ω`: Omega (realities that defy classification; Annex-only).
+- SUBCLASS (/0): Proximity to a "baseline" (e.g., `00` = our universe, `01` = minor changes, `99` = unrecognizable), log scale based on user.
+- REALITY (00-99): General characteristics.
+- DIVERGENCE (00-99): Degree of deviation from expected physics/logic (e.g., `00` = Newtonian, `50` = magic exists, `99` = reality is a song).
+- SUBTYPE (a-z/0-9): Specific flavor or theme (e.g., `a` = steampunk, `b` = post-apocalyptic, `1` = cyberpunk).
+
+The Archive classifies locations by lettered codes based on characteristics, like habitability, atmosphere, surface conditions, and proximity, with Class M being the most suitable for humanoid life.
+
+Overview of Classes
+
+Class #–9: Inter-ocular locations
+Locations situated “between” ... that is, spaces that exist in the perceptual and cognitive domain rather than in a concrete geographic reality. These "inner" planes function as foundational, elemental realms that are perceived as central to the multiverse. Inner planes are the raw substrate of matter and energy in cosmologies. They surround or underlie the Material Plane (representing the "normal" world) and provide the elemental and energetic foundations upon which all other layers of a multiverse are constructed. 
+
+Mapping (Model, approximate)
+
+# Class 			Type				 Function /  Role
+Ǝ Elemental			Air, Earth, Fire, Water		Fundamental building blocks of matter
+Æ Energy (Æther)		+/-; Positive, Negative		Governs life, death, and energy interactions
+ɘ Para-elemental 		Magma (Fire + Earth), 
+				Ooze (Earth + Water), 
+				Smoke (Air + Fire), 
+				Ice (Water + Air)		Interaction location zones; transition spaces
+◌́ Quasi-elemental 		Radiance, Lightning, Mineral, 
+				Steam, Salt, Dust, Ash, Vacuum	Blending of elemental and energetic forces; exotic locales
+
+Class A̱: Mythic (primordial-dominant); 𐤀 are the oldest locations and carries the meaning of “origin, foundation”.
+Class Æ: Magic (ritual-dominant); Active aetheric forces and operations; The “call” or “invoke” operator in MANA OS interactions, primary energy forms (Positive Energy, Negative Energy)
+Class Ṁ: Mana  (Energetic-dominant); Raw energy locations; Flow, charge, vitality substrate “fuel” layer of MANA OS; These include pure elements (Air, Earth, Fire, Water), Para-elemental or quasi-elemental planes, representing intersections of elements or element-energy combinations (e.g., Smoke between Air and Fire, Frost between Water and Air).
+
+Characteristics of Early Inter-ocular Location
+Elemental Purity: Each exaggerates a particular fundamental force or substance
+Spatial and Conceptual Centering: In traditional cosmology, inter-ocular locations form a central ring, comparable to inter-ocular focal zones in essence perception — central, essential, yet largely abstract.
+Relative Accessibility: Border regions are more hospitable and perceptually familiar, allowing expeditionaries to cognitively perceive them, while deeper regions are increasingly alien.
+Inhabitants and Ecology: Inter-ocular location natives are specialized for survival within their environment. Inter-ocular locations emphasize ecological and physical extremes rather than ethical frameworks.
+
+Permeable Boundaries: The notion of inter-ocular location intersections (e.g., para-plane dimensions) 
+
+Relationship of Inter-Ocular Locations
+In terms of the inter-ocular relations: The permeable transit locations operates like a focal point utilized by expeditionaries.
+Inter-ocular locations occupy a space immediately "around" or "behind" this focal point, providing structural and elemental context.
+
+These are central, elemental cosmological realms that underpin the worlds.
+
+Class A–F: Proto-Habitations
+Class A: Geothermal, surfaces partially molten, mostly hydrogen-based atmospheres, no life, located in cold or ecosphere zones. 
+Class B: Hot with tenuous atmospheres, surfaces partially molten, uninhabitable. 
+Class C: Geologically inactive, cold with frozen atmospheres, generally uninhabitable. 
+Class D: Small, heavily cratered or barren, almost no atmosphere; examples include moons or asteroid-like planetoids. 
+Class E: Newly formed in habitable zones with molten surfaces, leading eventually to Class F. 
+Class F: Partially solidified crusts, some hydrogen compounds in atmosphere, evolving toward Class G, generally uninhabitable by humanoids.
+
+Class G–L: Marginal to Partially Habitable
+Class G: Crystallizing surfaces, toxic atmospheric gases, potentially habitable with technological aid; may eventually become Classes K–P. 
+Class H: Hot, arid with heavy gases or metallic vapors, largely uninhabitable for humanoid life but some extremophile forms possible.
+Class I: Ice or gas “superlocations,” with ammonia/water/methane atmospheres, primarily uninhabitable.
+Class J: Gas-like locations, uninhabitable for humanoids, sometimes with layered atmospheres that could theoretically support non-humanoid life.
+Class K: Adaptable planets, potentially habitable for humanoids with life support measures, often pre-terraforming state 
+Class L: Marginally habitable, rocky planets with thin breathable atmospheres; can support limited vegetation or colonies with technological aid
+
+Class M–P: Fully or Partially Habitable
+Class M: Terrestrial, oxygen-nitrogen atmospheres, significant liquid water, abundant vegetation and animal life; Earth is the prime example.
+Class N: Highly reducing with dense, greenhouse gas-heavy atmospheres; very hot, generally uninhabitable.
+Class O: Pelagic location, mostly covered with liquid water (>80%), suitable for aquatic life, similar to Class M but more oceanic.
+Class P: Glaciated, >80% ice coverage, hardy lifeforms possible, sometimes considered Class M or O under warmer conditions.
+
+Class Q–Y: Extreme or Variable 
+Class Q: Variable or unstable locations due to eccentric fluctuations; environmental conditions range from molten to frozen. 
+Class R: Rogue location in space or dimensional; may generate limited geothermal ecosystems. 
+Class S–T: Gas ultra-locations or hot locations with enormous gravity, radiating heat (from locational cores), mostly uninhabitable.  
+
+CLASS U–Z : Meta-reality
+These classes fill the gap between Class Q–Y (extreme physical) and Class Ω (Annex/Nightmare). They represent non‑physical, semi‑physical, or supra‑physical environments that expeditionaries can enter, observe, or become trapped in. Each class begins with a class variable.
+
+Class U : 🜄 : Unstable Realities; Meta‑variable, semi‑coherent; Transitional, collapsing, or partially‑rendered universes; Physics loads only when observed; collapses when unobserved; Time is probabilistic, not sequential; Geography “shimmers” between states; Expeditionaries risk Echo‑Shear (temporal desync); A universe mid‑boot, or a corrupted save file
+
+Class V : 🜁 : Vibrational Realities
+Type: Harmonic, frequency‑dominant
+Function: Realities where vibration, resonance, or waveform is the primary substrate.
+
+Characteristics
+Matter = standing waves.
+Identity = harmonic signature.
+Communication occurs through phase‑locking.
+Divergence values often >70 (song‑logic, rhythm‑logic).
+
+Note: Class V is where “reality is a song” becomes literal.
+
+🜂 Class W — Warped Realities
+Type: Non‑Euclidean, curvature‑dominant
+Function: Realities where geometry is the primary variable.
+
+Characteristics
+Space folds, loops, or intersects itself.
+Straight lines do not exist.
+Distance is a function of intent, not metric.
+Expeditionaries risk topological drift.
+
+Relation to Annex: W‑realities are the “last stop” before X‑class xenorealities.
+
+🜃 Class X — Xenorealities
+Type: Alien, incomprehensible
+Function: Realities incompatible with humanoid cognition.
+
+Characteristics
+Logic systems differ from baseline.
+Time may be circular, branching, or absent.
+Entities may be conceptual, not physical.
+Requires Observatories or Curator escort.
+
+Note: This class already appears elsewhere in the document — this is definition expansion.
+
+Class Y–Ω:  Hazardous 
+U–Z are structured meta‑realities.
+
+🜄 Class Y — Hazard Realities
+Class Y (Demon Class): Extremely hostile with toxic atmospheres, high temperatures (over 500 K), thermionic radiation, and hazardous surface conditions.
+Type: Actively hostile
+Function: Environments that destroy or corrupt observers.
+
+Characteristics
+Toxic atmospheres, extreme radiation, corrosive physics.
+Often used as “quarantine zones” for dangerous records.
+Expeditionaries require full metaphysical shielding.
+
+🜅 Class Z — Zero‑Point Realities
+Type: Ground‑state, pre‑causal
+Function: Realities at or near cosmic zero‑point energy or pre‑geometry.
+
+Characteristics
+No time, no space, only potential.
+Records appear as “proto‑events” or “unborn histories.”
+Curator warns: prolonged exposure erases Essence identity.
+Used by Archivists to seed new universes.
+Analogy: The blank page before the story begins.
+
+RELATION TO CLASS Ω (ANNEX)
+Class Ω (Nightmare Class): Actively hostile with hazardous surface conditions. Source of many cognitohazards.
+Class Ω is not the next step after Z.
+Ω is the failure of classification — the point where the Archive itself refuses to assign structure.
+Ω is unstructured anti‑reality.
+
+WHERE THESE FIT IN THE TRUE ARCHIVE
+
+Code Interpretation
+[M/00-00-00-a],	Earth-like, baseline proximity, Newtonian physics, steampunk theme
+[A̱/05-80-30-b],	Mythic, slight divergence from baseline, high magic, post-apocalyptic
+[Ω/XX-99-99-Ω],	Annex, undefined, max divergence, no subtype
+[U/00-70-50-1],	Unstable Reality, baseline proximity, high divergence, cyberpunk
+
+PHYSICAL BAND:     A – P
+EXTREME BAND:      Q – Y
+META-REALITY BAND: U – Z
+ANNEX BAND:        Ω
+
+SUBCLASS, Proximity to Baseline, Example
+00,	Identical to  universe,	Earth-Prime
+01–10,	Minor changes,		Alternate history (e.g., "Napoleon won Waterloo")
+11–30,	Moderate changes,	Magic exists but is rare
+31–60,	Major changes,		Non-human dominant species
+61–90,	Radical changes,	Physics fundamentally different
+91–99,	Unrecognizable,		Reality is a song, time is circular
+
+This gives a complete, continuous spectrum from:
+
+	elemental → proto‑habitable → habitable → extreme → meta‑causal → unclassifiable.
+
+General Notes
+Classes consider age, location, surface conditions, atmosphere composition, and potential for life. Classes can evolve as age geologically: e.g., Class A→C→G→M in some cases. Class M is canonically the most referenced as suitable without special modifications. Other dangerous or extreme classes like Y or Q are often flagged to navigate hazardous scenarios or unique cultures. These classifications are utilized across the archive to give scribes and expeditionaries a consistent way to understand environments, whether for exploration, colonization, or potential hazards in missions.
+
+TRUE Code Utility
+- Conversion Tool: Use codes to map characters/items between systems, with minor adjustments.
+- Random Generation: Generate codes for solo recording.
+- Sanity/Strain Mechanic: Observing high-DIVERGENCE codes impose penalties.
+
+Timeline Data
+<RECORD type="DIVERGENCE-MAP">
+    ID = HIST-00-00-00.a
+    MODE = D        ; dynamic object
+    THREADS = {
+        t0 = Baseline Chronology,
+        t1 = Empire Cycle,
+        t2 = Plague–Schism–Renaissance,
+        t3 = Science–Modernity Push,
+        t4 = Decolonization Wave,
+        t5 = Industrial–Digital Wars,
+        t6 = Contemporary Singularity,
+        t7 = Ghost Epoch (Projected)
+    }
+
+    OPERATORS = {
+        TRACE,      ; follow a historical thread
+        FORK,       ; branch a cadence into an alternate timeline
+        MERGE,      ; collapse parallel histories
+        ANCHOR      ; stabilize a drifting epoch
+    }
+
+    SEGMENTAL-RHYTHMS = {
+        t1: 1:2:3:2,
+        t2: 1:2:2:3,
+        t3: 1:3:2:2,
+        t4: 2:3:2:1,
+        t5: 2:2:3:1,
+        t6: 3:2:2:1,
+        t7: 3:2:1:2
+    }
+
+    NOTES = "
+        The Seven Canonical Permutations represent historiographic cadence-forms.
+        Each permutation encodes a macro-historical rhythm:
+        - 1 = Seed / Origin
+        - 2 = Rupture / Crisis
+        - 3 = Bloom / Expansion
+        - (return) = Closure / Consolidation
+    "
+</RECORD>
+
+Issues
+Format explained: [A/0-00-00-00.0] as [CLASS-REALITY-DIVERGENCE-SUBTYPE]
+
+CLASS = A, Ṁ, Æ, X, U, V, W, Y, Z, Ω
+SUBCLASS = 00–99 (logarithmic proximity to baseline)
+REALITY = 00–99 (environmental/structural characteristics)
+DIVERGENCE = 00–99 (physics/logic deviation)
+SUBTYPE = a–z / 0–9 (theme, flavor, or cultural mode)
+
+SUBCLASS Definition,/0 = proximity to baseline
+01 minor, 50 major, 99 unrecognizable
+Logarithmic scale
+00  = identical to baseline  
+01–10 = minor changes (alt‑history, soft magic)  
+11–30 = moderate changes (rare magic, altered species)  
+31–60 = major changes (non‑human dominant, altered constants)  
+61–90 = radical changes (physics rewritten, logic drift)  
+91–99 = unrecognizable (song‑logic, circular time, conceptual entities)
+
+Class Overlaps, Class Y appears in two places (Extreme Band and Hazard Class), intentional overlap left for description to clarify hierarchy overlap.
+Class Y is the only class that spans both the Extreme Band and the Hazard Band.
+Y‑Physical destroys the body.
+Y‑Meta destroys the mind.
+
+Ω vs. Z,Class Z = Zero-Point (pre-causal), Class Ω = Unclassifiable. 
+Explicit state: Z is structured meta-reality; Ω is unstructured anti-reality.
+
+Class Z — Zero‑Point Realities
+Structured
+Pre‑causal
+Ground‑state
+Potential without form
+Archivists can enter with extreme caution
+Used to seed new universes
+Records appear as proto‑events
+
+Class Ω — Annex / Anti‑Reality
+Unstructured
+Anti‑causal
+Classification‑resistant
+Logic‑hostile
+Archivists cannot “enter” so much as “survive exposure”
+Records actively resist containment
+
+Concepts, Matters, Additions
+What is a "Record"? Core archival unit; A Record is a self-contained essence fragment: a book, hologram, living memory, or quantum-encoded story that preserves a moment, entity, or timeline.
+
+How do Observatories work? MDescribe Sanity-preserving protocols, lens-geometry, observer-paradox mitigation.
+
+What is "Contamination"? Risk of intervention; Exists as tiers of contamination (e.g., Minor: Localized timeline drift, Major: Reality rupture, Catastrophic: Annex breach).
+
+How are Codes Assigned? Automated, Curator-resolved; Decided from expeditionary-submitted codes.
+
+---
+
+Experience & Interaction 
+Visitor Actions
+
+Action Mechanics                        
+|------------------------------------------------------------------------------|
+| Wander                                
+|
+| Study a Record     
+| Spend time to learn lore; risk "Echoes" (psychic feedback).                             
+|
+| Ask the Curator     
+| Pose a question; the Curator provides a cryptic code or artifact.                           
+|
+
+CODE FORMAT (CANONICAL)
+[CLASS / SUBCLASS – REALITY – DIVERGENCE – SUBTYPE]
+
+CLASS: A, Ṁ, Æ, X, U, V, W, Y, Z, Ω
+SUBCLASS (00–99): Logarithmic proximity to baseline
+REALITY (00–99): Environmental/structural characteristics
+DIVERGENCE (00–99): Deviation from expected physics/logic
+SUBTYPE (a–z / 0–9): Thematic or cultural flavor
+
+SUBCLASS SCALE (LOGARITHMIC)
+00 = identical to baseline
+01–10 = minor changes
+11–30 = moderate changes
+31–60 = major changes
+61–90 = radical changes
+91–99 = unrecognizable
+
+CLASS Y (DUAL-NATURE)
+Y-Physical (Extreme Band): Hazardous physical environments
+Y-Meta (Hazard Band): Hazardous metaphysical environments
+Y is the only class spanning two bands.
+
+Z vs Ω (FINAL DISTINCTION)
+Z = Zero-Point Realities (structured pre-causal)
+Ω = Annex Realities (unstructured anti-reality)
+Z precedes story; Ω devours story.
+
+The Curator’s Role
+- A timeless entity (or rotating cast) with motivations:
+  - Benevolent: Guides players toward "stable" codes.
+  - Neutral: Offers codes at a cost (e.g., memories, stats).
+  - Malevolent: Feeds visitors to the Annex.
+- Solo: The Curator acts as an AI oracle.
+  - Example prompt: "Curator, show me a world where gravity is a suggestion." → Returns `[\location-code\]` and description.
+
+Interpreted Examples:
+
+[M/00-00-00-a] → Earth-like, baseline, Newtonian, steampunk
+[A̱/05-80-30-b] → Mythic, slight divergence, high magic, post-apocalyptic
+[Ω/XX-99-99-Ω] → Annex, undefined, max divergence, no subtype
+
+Institutional Orders of the Archive: Lodges & Guilds
+🜁 Lodges & Guilds of the TRUE Archive
+(Institutional Factions, Expeditionary Orders, and Para‑Scholastic Societies)
+The Archive is not merely a place — it is an ecosystem of competing, cooperating, and knowledge‑orders. These Lodges and Guilds form the social, political, and metaphysical infrastructure that keeps the Archive functioning (or malfunctioning).
+
+1. The Lodge of Silent Binding
+“We bind what must not wander.”
+Role: Prevent dangerous records from escaping their containers.
+Specialty: Metaphysical sealing, anti‑contamination wards, Annex quarantine.
+Perk: Members can “mute” a record’s Echoes for short periods.
+Cost: Gradual loss of personal memories (the Lodge calls this “donation”).
+
+2. The Lodge of the First Lens
+“Observation is creation.”
+Role: Overseers of Observatories; experts in high‑Divergence study.
+Specialty: Sanity‑preserving viewing protocols, lens‑geometry, observer‑paradox mitigation.
+Perk: Can view Annex‑tier realities without immediate rupture.
+Cost: Members slowly become partially transparent.
+
+3. The Lodge of the Curator’s Shadow
+“The Curator sees all. We see what it does not.”
+Role: Internal auditors, spies, and counter‑oracles.
+Specialty: Tracking Curator anomalies, predicting Archive moods, sabotage prevention.
+Perk: Access to Curator‑locked wings.
+Cost: The Curator always knows their names.
+
+🜄 The Guilds (External‑Facing Expeditionary Orders)
+Guilds are outward‑facing, sending members into other universes to retrieve, repair, or record. They operate like cosmic unions: each has ranks, rites, and hazard pay.
+
+1. Guild of Echo Divers
+------------------------
+“We swim in the wake.”
+Role: Enter unstable timelines to capture Echoes (psychic imprints).
+Tools: Echo‑nets, mnemonic anchors, divergence‑tuning forks.
+Risk: Echo‑overload → personality fragmentation.
+Prestige: Highest fatality rate = highest respect.
+
+2. Guild of Annex Cartographers
+--------------------------------
+“The Annex is not a place. It is a direction.”
+Role: Map the unmappable; chart Ω‑class realities.
+Tools: Topological compasses, paradox sextants, recursive maps.
+Risk: Returning with a map that maps you instead.
+Prestige: Only guild allowed to petition the Curator directly.
+
+The Cartographers are among the most respected (and quietly feared) expeditionaries in the Archive. While most guilds venture into known or semi-known realities, the Cartographers alone are sanctioned to push into Ω-class territories — realities that actively resist classification, where the Archive’s own codification systems begin to fail. They do not “explore” in the traditional sense. They witness topology and attempt to bring back something coherent enough to be recorded without unraveling the mind of the reader.
+
+Guild of Annex Cartographers: Rank StructureThe Cartographers maintain the same foundational ranks used across all Lodges and Guilds of the TRUE Archive, but each rank carries specialized meaning, privileges, and dangers within their Ω-focused order.
+
+1. Initiate
+“Eyes only. Hands bound.”  Newcomers who have proven mental resilience but no field experience.  
+Permitted to study sanitized Ω-class summaries in secure Observatories.  
+Forbidden from touching any Annex artifact or entering even Class U–Z realities.  
+Common Trial: Survive 72 hours observing a single Recursive Map without losing object permanence.
+
+2. Scribe
+“We record what should not be seen.”  
+Trusted with cataloging low-to-mid divergence Echoes brought back by higher ranks.  
+Allowed limited access to Class W and X records under supervision.  
+Begin training with basic Topological Compasses and Echo-Veils.  
+Many Scribes spend years redacting their own memories after their first true exposure.
+
+3. Expeditionary
+“We walk the direction that should not exist.”  
+The backbone of the Guild. Authorized for active fieldwork in Class U–Z and select Ω-fringe realities.  
+Issued standard toolkits: Topological Compass, Paradox Sextant, and basic Echo-Veil.  
+Expected to return with at least one viable map fragment per mission.  
+Highest attrition rate of any Guild rank. Survivors often bear visible topological scars (skin that folds unnaturally).
+
+4. Chronicler
+“We make the unmappable... legible.”  
+Elite record-keepers who translate Annex experiences into Archive-compatible formats.  
+Can alter minor records and stabilize small timeline fractures.  
+Granted access to the Null Quill and advanced Recursive Maps.  
+Many develop the ability to “speak in glyphs” — communicating complex Ω-topologies without words.
+
+5. Warden
+“We guard the threshold so others may cross it.”  
+Senior field commanders who oversee Annex access gates and major mapping expeditions.  
+Responsible for quarantining cognitohazards and training new Expeditionaries.  
+Carry personalized artifacts (often a fully sentient Recursive Map or custom Paradox Sextant).  
+Authority to seal or unseal specific Ω-class wings.
+
+6. Prime
+“The Map and the Cartographer become one.”  
+There is only one Prime per Guild at any time.  
+The current Prime of the Annex Cartographers is known only as The Folded Cartographer (real name redacted even from most Wardens).  
+Negotiates directly with the Curator. Holds the master key to the deepest Annex vaults.  
+Legend says the Prime no longer has a fixed form — they exist as a living topological anomaly that walks between realities.  
+Final Privilege: The ability to declare an entire reality “Unmappable” and request its excision from the Archive.
+
+Primary Tools of the Annex Cartographers
+----
+Here are the most notable instruments they employ. Each is both artifact and semi-sentient protocol:
+
+Topological Compasses
+--
+These do not point north — they point toward least resistance in essence geometry.  Appearance: A brass-and-crystal sphere filled with slowly rotating liquid starlight and tiny moving glyphs.  
+Function: Detects folds, self-intersections, and causal knots in reality. It can show the “shortest path” through a looping timeline or a reality that has been crumpled like paper.  
+Risk: Prolonged use may cause the user to perceive all straight lines as lies. Some Cartographers return unable to walk in Euclidean space without vertigo.  
+Guild Rank Required: Expeditionary or higher.
+
+Mechanics:
+Short Range (100m): Reveals safe paths (⟐), unstable routes (⟁).
+Long Range (1km): Detects Annex proximity (⧉).
+Overuse: User perceives all lines as curved (lasts 1d6 days).
+Critical Failure: User becomes a non-Euclidean entity (permanent).
+
+Paradox Sextants
+--
+Intricate multi-ringed devices that measure angles between contradictory truths.  Function: Allows the user to triangulate their position using three mutually impossible reference points (e.g., “before the beginning,” “after the end,” and “the place that never was”).  
+Special Ability: Can temporarily stabilize a collapsing Ω-reality long enough to take a single reading or extract one Echo.  
+Drawback: Each successful use slightly increases the probability that the user becomes a paradox themselves.
+
+Mechanics:
+Success: Stabilizes one Ω-reality for minutes.
+Failure: User gains a paradox trait (e.g., "exists in two places at once").
+Critical Failure: User becomes a paradox (discretion).
+
+Recursive Maps
+--
+The signature tool of the Guild. These are not static charts.  Form: Usually a scroll, a crystal lattice, or a living tattoo that grows across the skin.  
+Property: The map redraws itself as new information is perceived. However, the map sometimes begins mapping the Cartographer — their thoughts, fears, or alternate selves bleeding into the geography.  
+Advanced Technique: “Folding the Map” — deliberately collapsing the representation to force a corresponding collapse (or expansion) in the target reality.
+
+Mechanics:
+Passive: Maps current reality.
+Active (Folding the Map): Collapses or expands target reality (requires Warden approval).
+Risk: Map begins mapping the user (1% chance per use).
+
+Echo-Veils & Mirror Shrouds
+--
+Thin, shimmering membranes worn as cloaks or placed over the eyes.  
+Purpose: Filter out cognitohazards and prevent the Annex from “looking back” too directly at the observer.  
+Limitation: The longer one wears a Veil, the more difficult it becomes to remember one’s original face.
+
+The Null Quill
+--
+A writing instrument, a meta-stable mechanism (Quills have a limited lifetime of existence), that is manufactured or produced only when needed.  
+Used to inscribe observations that cannot be spoken or thought directly.  
+Anything written with the Null Quill automatically redacts itself from the writer’s memory until it is safely back in a Class M or lower environment.  
+Many senior Cartographers carry journals full of pages they can no longer read.
+
+3. Guild of Mechanicus Engineers
+----------------------------------
+“Every world is a machine. Every plane is a gear.”
+Role: Repair broken timelines, patch causality leaks, stabilize story‑logic.
+Tools: Causal rivets, plot‑solder, retcon stabilizers.
+Risk: Becoming a character in the world they fix.
+Prestige: Universes sometimes worship them as gods.
+
+🜃 Cross‑Order Structure
+------------------------
+Ranks (Shared Across All Lodges & Guilds)
+Initiate — Allowed to observe but not touch records.
+Scribe — Can handle Class A–M records.
+Expeditionary — Authorized for fieldwork in divergent realities.
+Chronicler — Writes official Archive entries; can alter minor records.
+Warden — Oversees a Gallery, Observatory, or Annex gate.
+Prime — One per Lodge/Guild; negotiates with the Curator.
+
+Rank,		Internal 	Lodges,		Guilds,		External Orders,		Privileges, Costs/Risks
+Initiate,	Observer,	Apprentice,	Spark,		Access to safe records,		None
+Scribe,		Cataloger,	Journeyman,	Hammer,		Handle Class A–M records,	Minor Echo exposure
+Expeditionary,	Field Agent,	Full Member,	Anvil,		Fieldwork in Class U–Z,		Topological scars, memory loss
+Chronicler,	Archivist,	Senior Member,	Brand,		Alter minor records,		Personality fragmentation
+Warden,		Overseer,	Commander,	Master,		Seal/Unseal gates,		Prime's attention
+Prime,		Lodge Leader,	Guild Leader,	Exalted,	Negotiate with Curator,		Loss of form
+
+🜁 Inter‑Order Politics
+Lodges tend to be conservative, protective, and territorial.
+Guilds are competitive, reckless, and glory‑driven.
+The Curator plays them against each other to maintain balance.
+Annex Cartographers and Silent Binding are in a cold war.
+Essence Engineers and First Lens collaborate often but hate admitting it.
+
+External Lodges & Guilds (Non‑Archive Powers)
+---------------------------------------------
+🜁 External Lodges & Guilds
+(Independent Powers Operating Beyond the Archive)
+
+These organizations do not belong to the Archive.
+They predate it, oppose it, parasitize it, or treat it as a resource to exploit.
+Their codes, rituals, and politics are alien to the Archive’s internal Lodges and Guilds.
+
+They are the reason the Curator keeps the Annex locked.
+
+🜂 The Lodges (Sovereign Orders Outside the Archive)
+---
+1. The Lodge of the Wandering Ledger
+-------------------------------------
+
+			“Every world owes a debt.”  
+
+A nomadic order of cosmic accountants who track causal debt across universes.
+
+	Purpose	: Collect unpaid essence consequences.
+	Method	: They “audit” timelines by removing improbable events.
+	Relationship to Archive: Neutral; they trade information for access.
+	Threat	: If they declare a universe “insolvent,” they attempt collapse it.
+
+Aspect		TRUE Archive				Ledger Inquisition
+Scope,		Multiversal				Galactic focus
+Threats		Reality anomalies, cognitohazards	Chaos, Heresy, Xenos
+Methods		Classification, mapping, observation	Purge, exterminate, burn
+Factions	Lodges & Guilds (diverse)		Ordos (specialized)
+Tone		Mystical + systematic			Grimdark + fanatical
+
+2. The Lodge of the Pale Forge
+------------------------------
+
+			“The Pale Lodge; We build what reality refuses to.”  
+
+A technomantic guild that manufactures synthetic universes.
+
+	Purpose	: Create pocket‑realities for clients, gods, or empires.
+	Method	: Forge‑cores, artificial constants, prefab physics.
+	Relationship to Archive: Competitive; they offer bounties for Annex fragments.
+	Threat	: Their universes sometimes leak into natural ones.
+
+The Lodge of the Pale Forge is a technomantic order of reality-smiths and synthetic cosmologists who predate the TRUE Archive by several epochs. While the Archive records and preserves stories, the Pale Forge manufactures them. They are cosmic artificers who treat entire universes as craft projects —building pocket-realities, engineered timelines, and bespoke cosmologies for clients ranging from fallen gods and dying empires to ambitious mortals who have acquired sufficient essence capital. Where the Annex Cartographers map what should not exist, the Pale Forgers make what should not exist.
+
+Purpose & Philosophy
+--
+Core Doctrine: Natural reality is flawed, limited, and often wasteful. True mastery lies in deliberate design—refining physical constants, pruning undesirable essence branches, and installing custom metaphysical rule-sets.
+Creed: “A universe is a machine. We are its engineers.”
+They view the Archive’s reverence for “natural” stories as sentimental and inefficient. Many Forgers consider the Curator a glorified museum keeper rather than a peer.
+
+Methods & Technology
+--
+The Pale Forge specializes in Synthetic Cosmogenesis:
+
+Forge-Cores: Massive, self-contained reality engines (sometimes planet-sized, sometimes no larger than a fist). These act as seeds that bloom into full pocket-universes when supplied with sufficient mana, Echoes, or raw probability.
+
+Artificial Constants: They rewrite fundamental rules—altering the speed of light, the strength of gravity, the arrow of time, or even the logical necessity of cause preceding effect.
+
+Prefab Physics Modules: Modular “plug-ins” for realities (e.g., “Eternal Golden Age” timeline package, “Low-Magic Industrial Revolution” template, “Benevolent God-King Governance OS”).
+
+Essence Scaffolding: They construct entire histories, mythologies, and destinies in advance, then let the universe “grow” around this framework.
+Leak Management Protocols: Their greatest ongoing challenge. Synthetic universes have a tendency to bleed into baseline realities, creating “Pale Incursions”—zones where physics behaves like poorly written fanfiction.
+
+Relationship with the Archive
+--
+Competitive: They frequently raid Annex fragments, unstable Ω-class records, and discarded timeline shards to use as raw material.
+Tense Diplomacy: The Curator allows limited trade (especially for stabilized synthetic records), but the Lodge of Silent Binding maintains constant surveillance on known Forge operations.
+
+Cold Conflict: Multiple documented incidents of Pale Forge operatives attempting to “upgrade” natural Class M worlds without consent, leading to Archive intervention.
+
+Structure & Ranks
+--
+The Pale Forge uses a smithing-inspired hierarchy:
+
+Spark (Initiate)
+	Apprentices who maintain forge temperatures and perform basic probability annealing.
+
+Hammer (Journeyman)
+	Field engineers who deploy Forge-Cores and stabilize early-stage synthetic realities.
+
+Anvil (Master)
+	Senior designers responsible for entire cosmological blueprints. Capable of forging pocket-universes with coherent long-term stability.
+
+Brand (Exalted)
+	Legendary Forgers who have successfully created self-sustaining, expanding synthetic multiverses. Each Brand is said to carry a fragment of their greatest creation within their soul.
+
+The Pale Prime
+Current leader: The Unmaker-Smith (true name redacted). A being who exists simultaneously as a humanoid figure and as a living architectural schematic. Rumored to have once forged an entire universe as an apology.
+
+Notable Tools & Artifacts
+---
+Pale Crucible: A portable reality-forging device that can temporarily overlay synthetic physics onto a local area.
+Constant Chisels: Tools that literally carve new physical laws into the fabric of spacetime.
+Echo Forges: Machines that convert raw memory and essence residue into stable matter and energy.
+The White Ledger: Their internal record of every synthetic universe ever created (rival to the Archive’s own catalog).
+
+Known Dangers
+--
+Reality Leaks: Synthetic universes can destabilize neighboring natural ones.
+Client Backlash: Many clients discover too late that “perfect” designed realities often lack the chaos that makes existence meaningful.
+Forge-Addiction: Some Forgers become obsessed with perfection, iteratively destroying and rebuilding their own creations (and sometimes the client’s original universe).
+
+3. The Lodge of the Last Witness
+---------------------------------
+
+		“When a universe dies, someone must watch.”  
+
+A solemn order that attends the death of worlds.
+
+	Purpose: Record final moments of collapsing timelines.
+	Method: Non‑interference; they arrive only when all hope is gone.
+	Relationship to Archive: Respectful; they share extinction‑records.
+	Threat: Their presence is an omen — they never arrive early.
+
+🜁 The Containment Cartographers
+--------------------------------
+(External Lodge / Paracausal Guild)
+A sovereign, extra‑archival organization dedicated to mapping, containing, and neutralizing anomalous phenomena across the multiverse.
+They are not aligned with the Archive, but they respect its mission — and fear its Annex.
+
+🜂 Identity & Mandate
+Name: The Containment Cartographers  
+(Also called “The Mapwrights,” “The Redactors,” or “The Fold‑Surveyors.”)
+
+Mission:
+To locate, classify, map, and contain anomalies that threaten:
+
+	Causality
+	Ontology
+	Stability
+	Inter‑reality boundaries
+	Sapient populations (Sophontic masses)
+
+They are pragmatic, paranoid, and obsessively procedural. The Cartographers foundation is a secret, non-governmental organization operating outside normal jurisdiction, empowered by major powers to contain anomalies that threaten physical, psychological, or societal stability. Its motto defines its mission philosophy:
+
+		“If it cannot be understood, it must be mapped.
+		 If it cannot be mapped, it must be contained.
+		 If it cannot be contained… it must be erased.”
+
+Its existence is hidden to preserve normalcy and prevent mass panic.
+
+The Cartographers identify and acquire anomalous objects, entities, or phenomena before civilians or hostile groups can. This includes surveillance, field operations, and rapid-response teams. Once secured, anomalies are isolated, neutralized, or otherwise prevented from interacting with the public. Containment may involve:
+
+	purpose-built facilities
+	dimensional isolation
+	psychological protocols
+	memetic or infohazard suppression
+
+The Cartographers protects reality from anomalies — and sometimes protects anomalies from reality — until they can be understood or neutralized.
+
+🜃 Organizational Structure
+---
+Departments
+The Cartographers are divided into specialized divisions, including:
+
+	Survey Corps		: Scientific Department 	— research, analysis, experimentation
+	Redaction Bureau	: Security Department 		— facility protection, internal security
+	Containment Engineers	: Department of Force 		— tactical operations
+	Conclave		: Administration  		— logistics, records, oversight
+
+1. The Survey Corps
+Field agents who locate anomalies.
+They use dimensional compasses, Echo‑meters, and “fold triangulation rigs.” 
+
+2. The Redaction Bureau
+Specialists who erase dangerous knowledge from civilizations.
+They deploy memory‑mists, essence scrubs, and “cognitive quarantine fields.”
+
+3. The Containment Engineers
+Builders of containment structures across realities. They have direct control over the Delta-Class.
+
+Delta-Class entities
+Entities designated as test subjects, often prisoners or individuals slated for execution, used in high-risk experiments.
+
+The Containment Engineers create:
+
+	Paracausal cages
+	Anti‑story chambers
+	Ontological dampeners
+	Recursive vaults
+
+Engineer Task Forces (ETFs)
+---
+Elite, highly specialized units deployed for:
+
+	anomaly capture
+	containment breach response
+	covert operations
+
+Examples include:
+
+	Order Epsilon-11 — “Nine-Tailed Fox”
+	Role: Breach Response & Containment Enforcement
+	The elite rapid-response strike force of the Conclave. 
+
+When a sealed relic shatters, a bound demon king stirs in its prison, or a forbidden spell-rift tears open reality, the Nine-Tailed Foxes are deployed. Clad in enchanted scarlet and black armor etched with flowing foxfire runes, they specialize in overwhelming force and surgical containment. Each squad is led by a Warden - often a mage bonded with a familiar of immense power. Their signature ability is Cascade, a barrage of spiritual flames that can seal dimensional breaches, burn out possessing entities, and track escaped anomalies across realms.
+
+	Motto: "What has escaped the Ward shall be hunted down before the moon sets."
+
+	Order Eta-10 — “See No Evil”
+	Role: Visual & Memetic Hazard Specialists
+	The silent, eerie specialists who deal with dangers that kill through sight alone.
+
+Cursed idols that petrify with a glance, living tapestries that steal souls through their patterns, basilisk-blooded horrors, the Unknowable Mirror, or memetic runes that drive viewers mad the moment their eyes trace the lines, the are all Eta-10 specality. Members of See No Evil operate blindfolded or with specially enchanted visors of blackened crystal and silver. Many are voluntarily blinded or use scrying familiars and echo-sight to navigate. Their armor is matte obsidian with no reflective surfaces, and they carry Veilshroud lanterns that project anti-cognizant light — illuminating the world while suppressing the dangerous visual patterns of their targets. They are masters of sight-sealing wards, memory-erasure charms, and the dangerous art of counter-gazing (using controlled visual magic to neutralize hostile visuals).
+
+	Motto: "What must not be seen, we shall unsee."
+
+4. The Mapwright Conclave
+The leadership.
+They maintain the Grand Anomaly Atlas, a living map of all known threats. The highest authority: a 13‑member secretive leadership body known as the Overseers. They control policy, existential-threat decisions, and access to the most dangerous anomalies. 
+
+The Draftsman (Administrator)
+A mysterious figure credited with founding or shaping the Cartographers. Rarely appears; often treated as mythic.
+
+🜄 Classification System
+---
+The Cartographers classify anomalies using a three‑axis system:
+
+1. Stability Class
+
+	Stable 		— predictable
+	Volatile 	— unpredictable
+	Chaotic 	— actively destabilizing
+	Apex 		— multiversal threat
+
+2. Containment Difficulty
+
+	Trivial
+	Moderate
+	Severe
+	Impossible
+
+3. Essence Hazard Level
+
+	Low 		— harmless story drift
+	Medium 		— local plot corruption
+	High 		— timeline rewrite
+	Critical 	— story collapse
+
+This system is compatible with Annex Codes, but not identical.
+
+🜅 Relationship to the TRUE Archive
+Neutral‑Tense
+
+The Cartographers see the Archive as:
+
+	A potential ally
+	A potential threat
+	A massive containment breach waiting to happen
+
+They believe the Archive’s Galleries and Observatories are too open, too accessible, and too willing to let anomalies “express themselves.”
+
+Points of Conflict
+---
+They attempt to contain things the Archive wants to observe.
+They attempt to erase things the Archive wants to record.
+They attempt to seal things the Archive wants to classify.
+
+Points of Cooperation
+---
+They share maps of dangerous realities.
+They trade containment technology for Annex intel.
+They occasionally rescue expeditionaries.
+
+🜆 Contracts, Bounties & Offers (Non‑Archive)
+-------------------------------
+Containment Contracts
+
+	Issued to neutralize or relocate anomalies.
+
+	Tier		Effect			Recovery
+	Minor		Localized drift		Rest in Class M for hours
+	Moderate	Rupture (small)		Ritual purification (days)
+	Major		Divergence		Prime intervention required
+	Catastrophic	Breach			Quarantine or memory wipe
+
+	Contact Range	Dangers			Effect
+	1–2,		Echo Overload		: Lose memories
+	3–4,		Topological Drift	: Gain a non-Euclidean feature (e.g., extra limb, skin folds unnaturally)
+	5–7,		Temporal Shear		: Arrive years/decades in past/future
+	8–9,		Essence Predation	: A entity begins hunting you
+	0		Assimilation		: Transmutation to Ω-class entity
+
+Redaction Bounties
+	Issued to erase knowledge of dangerous events.
+	DIVERGENCE Range	Dangers			Duration
+	0–30			None,			–
+	31–60			Sanity compression,	Persists until return to Class M
+	61–90			Sanity fracture,	Requires Echo-Veil or Warden aid
+	91–99			Instant rupture,	Permanent unless Prime intervenes
+	Ω			Unclassifiable,		Memory loss, topological drift, or death
+
+Survey Offers
+	Requests for joint exploration of hazardous realities.
+
+Apex‑Class Bounties
+	Issued only when an anomaly threatens multiple universes.
+
+🜇 Signature Tools & Technologies
+
+ Containment Prism
+	A portable, multi‑reality cage that collapses anomalies into a stable state.
+
+ Essence Dampener
+	Prevents essential‑logic from mutating.
+
+ Fold Compass
+	Points toward the nearest anomaly.
+
+ Cognitive Quarantine Field
+	Prevents memetic or informational infection.
+
+The Grand Anomaly Atlas
+---
+A living map that updates itself when anomalies shift.
+
+🜈 Why the Cartographers Matter 
+---
+A containment‑focused external power
+A rival to the Archive
+A source of missions, conflicts, and cross‑overs
+A reason for anomalies to be hunted, not just observed
+A political tension between “record everything” and “contain everything”
+
+They are the anti‑Archive, but not villains — just zealots of safety.
+
+🜄 The Guilds 
+-------------
+(Interdimensional Operatives, Mercenaries, and Specialists)
+
+1. Guild of Keybreakers		“No lock is eternal.”  
+
+Interdimensional thieves who specialize in breaking into sealed realities.
+Purpose: Acquire artifacts, rescue trapped entities, or commit cosmic heists.
+Method: Phase‑keys, paradox drills, anti‑Curator cloaks.
+Relationship to Archive: Hostile; they raid the Annex often.
+Threat: They can open doors the Archive intentionally closed.
+
+2. Guild of Horizon Shepherds	“We guide wanderers between worlds.”  
+
+A guild of ferrymen that escort hosts between universes.
+Purpose: Transportation of people and populations between timelines.
+Method: Mana-Crafts (Jammers), horizon‑corridors, wormfolds stabilizers, sanctuary worlds.
+Relationship to Archive: Cooperative; Deposits for cataloging.
+Threat: Their corridors sometimes destabilize local physics.
+
+3. Guild of the Unwritten Path	“The story is not yet decided.”  
+
+A philosophical warrior‑order that believes fate is a disease.
+Purpose: Break predestination in deterministic universes.
+Method: Disrupt causal anchors, assassinate inevitabilities, rewrite destiny.
+Relationship to Archive: Ideological conflict; Archive preserves stories, they unwrite them.
+Threat: Their interventions can erase entire historical chains.
+
+🜃 How External Orders Interact With the Archive
+--
+Diplomacy	: Some negotiate for access to rare records.
+Conflict	: Others attempt to breach the Annex or steal forbidden codes.
+Trade		: A few exchange artifacts, Echoes, or stabilized timelines.
+War		: The Keybreakers and Pale Forge have both fought the Curator directly.
+Symbiosis	: Horizon Shepherds and Last Witness often collaborate with archivists.
+
+The Archive sees them as:
+
+	Rivals (Pale Forge)
+	Threats (Keybreakers)
+	Necessary Evils (Wandering Ledger)
+	Allies of Convenience (Horizon Shepherds)
+	Harbingers (Last Witness)
+
+Scribe Guides, Expeditionaire’s Glyphs & The Galactic Encyclopedia
+------------------------------------------------------------------
+🜁 Scribe Guides, Expeditionaire’s Glyphs & The Galactic Encyclopedia
+(Operational Manuals, Field Symbolics, and Pan‑Cosmic Reference Systems)
+
+These three systems form the practical backbone of the Archive’s day‑to‑day operations.
+Where the Annex Codes classify realities, these tools classify actions, observations, and knowledge.
+
+They are the “user manuals” of the multiverse.
+
+🜂 Scribe Guides
+----------------
+(Operational Handbooks for Archivists, Scholars, and Lore‑Technicians)
+Scribe Guides are living documents — manuals that rewrite themselves as the Archive updates its understanding of a universe. Every Guide is bound to a specific domain of knowledge.
+
+Primary Scribe Guides
+---
+Guide of Stable Records  
+Covers Class A–M realities; includes safe‑handling protocols, contamination thresholds, and recommended observation durations.
+
+Guide of Divergent Phenomena  
+For realities with DIVERGENCE 40–99; includes Echo‑resistance exercises and logic‑fracture triage.
+
+Guide of Temporal Conduct  
+Rules for interacting with timelines, including paradox‑avoidance, causal etiquette, and “observer neutrality.”
+
+Guide of Annex Navigation  
+Restricted; teaches how to read Annex topologies, recursive corridors, and Ω‑class distortions.
+
+Guide Structure
+---
+ Each Guide contains:
+
+	Protocol Sheets 	— step‑by‑step procedures.
+	Hazard Tables 		— Echo levels, rupture risks, sanity costs.
+	Glyph Indexes 		— symbols used by expeditionaries.
+	Curator Notes 		— cryptic commentary, sometimes contradictory.
+	Redacted Sections 	— visible but unreadable; content unknown.
+
+Scribes treat Guides as scripture, manuals, and survival gear.
+
+🜄 Expeditionaire’s Glyphs
+--------------------------
+(Field Symbols Used by Out‑Archive Operatives)
+
+Expeditionaries cannot rely on spoken language — too many realities distort sound, meaning, or causality.
+Instead, they use Glyphs: compact symbolic packets that encode intent, danger, or observation.
+
+Glyphs are carved, projected, traced in air, or embedded in Echo‑nets.
+
+Core Glyph Categories
+
+	Path Glyphs  
+	 Indicate safe routes, unstable corridors, or one‑way passages.
+
+	Hazard Glyphs  
+	 Mark Echo storms, logic fractures, temporal turbulence, or Annex bleed.
+
+	Record Glyphs  
+	 Used to tag events, entities, or artifacts for later retrieval.
+
+	Intent Glyphs  
+	 Communicate non‑verbal intentions between expeditionaries (e.g., “observe only,” “intervene,” “withdraw”).
+
+Glyph Properties
+
+	Self‑Stabilizing		: They persist even in collapsing realities.
+	Cross‑Linguistic		: Meaning is encoded in topology, not language.
+	Curator‑Readable		: The Curator can interpret any glyph instantly.
+	Annex‑Reactive		: Some glyphs distort when near Ω‑class anomalies.
+
+🜁 Expeditionary Glyph Codex (Full System)
+------------------------------------------
+A complete symbolic language for cross‑reality fieldwork
+
+Categories Organized:
+
+Path Glyphs 		⟐, ⟡, ⟁, ⧖, ⧗, ⟊, ⟫, ⟦⟧, ⟠	
+Hazard Glyphs 		⟁, ⌰, ⧉, ⟞, ⟜, ⟡̸, ⟢, ⟗, ⟤, ⟬	
+Record Glyphs 		⧈, ⧇, ⧅, ⧉̱, ⧂, ⧃, ⧀, ⧑, ⧒	
+Intent Glyphs 		⟟, ⟢̱, ⟣, ⟤̱, ⟧, ⟨, ⟩, ⟪, ⟫̱	
+Entity/Annex Glyphs 	⟬̱, ⟭, ⧉, ⧋, ⧌, ⧍, ⧎, ⧏, ⧐	
+
+Glyphs are topological packets of meaning, not letters.
+They encode intent, hazard, ontology, physics state, and essential condition in a form that survives:
+
+Divergent physics
+Annex bleed
+Echo storms
+Temporal inversion
+Logic fracture
+Observer‑dependent realities
+
+Glyphs are carved, projected, burned, folded, or traced.
+
+They are readable by:
+
+	Archivists
+	Expeditionaries
+	Curators
+	Some external Lodges
+	A few universes themselves
+
+🜂 Path Glyphs
+Navigation, traversal, corridor stability
+
+Glyph	Meaning			Notes
+⟐			Safe passage					Corridor stable for ≥ 3 cycles.
+⟡			Safe but shifting				Path moves; follow rhythm.
+⟁			Unstable route					Echo turbulence; proceed lightly.
+⧖			One‑way path						Return impossible without Curator.
+⧗			Time‑skewed path				Arrival time ≠ departure time.
+⟊			Path loops						Recursive corridor; anchor required.
+⟫			Forced direction				Corridor pushes travelers.
+⟦⟧			Corridor sealed				Usually by Silent Binding.
+⟠			Reality inversion ahead		Physics flips; prepare counter‑stance.
+
+🜄 Hazard Glyphs
+Environmental, metaphysical, or danger
+
+Glyph	Meaning			Notes
+⟁			Echo hazard					Psychic residue; memory bleed.
+⌰		 Temporal instability	 Time fractures; avoid loops.
+⧉			Annex proximity			Ω‑class distortion nearby.
+⟞			Logic fracture				Cause/effect unreliable.
+⟜			Ontological hazard		Existence may not persist.
+⟡̸			Anti‑observer field		Observation alters outcome.
+⟢			Essence predator			Entity hunts story‑threads.
+⟗			Causal rupture				Events may detach from timeline.
+⟤			Memory predation			Thoughts become edible.
+⟬			Paradox well				Avoid at all costs.
+
+🜃 Record Glyphs
+Tagging events, artifacts, entities, or nodes
+
+Glyph	Meaning			Notes
+⧈			Record of interest		Mark for retrieval.
+⧇			High‑value record			Priority extraction.
+⧅			Corrupted record			Handle with Echo‑nets.
+⧉̱			Annex‑origin record		Requires Warden approval.
+⧂			Living record				Entity is a story‑node.
+⧃			Self‑writing record		Do not edit.
+⧀			Recursive record			Contains itself.
+⧑			Time‑anchored record		Fixed point; cannot be altered.
+⧒			Forbidden record			Curator‑locked.
+
+🜅 Intent Glyphs
+Communication between expeditionaries without speech
+
+Glyph	Meaning		Notes
+⟟			Do not observe	Observation triggers event.
+⟢̱			Observe only	No intervention allowed.
+⟣			Intervene		Authorized to alter timeline.
+⟤̱			Withdraw			Retreat immediately.
+⟧			Hold position	Await further signals.
+⟨			Follow			Move behind glyph‑maker.
+⟩			Lead				Take point.
+⟪			Silence			No sound; reality sensitive.
+⟫̱			Speak				Safe to communicate.
+
+🜆 Entity Glyphs
+Marking beings, intelligences, or metaphysical actors
+
+Glyph	Meaning			Notes
+⟬̱			Non‑hostile entity			Safe to approach.
+⟭			Hostile entity				Avoid or neutralize.
+⟮			Observer entity			Watches but does not act.
+⟯			Essence entity				Exists only in story‑logic.
+⟰			Annex entity				Ω‑class; do not engage.
+⟱			Curator fragment			Harmless but unpredictable.
+⟲			Echo‑being					Made of memory.
+⟳			Loop‑being					Exists in recursion.
+⟴			Time‑anchored being		Cannot be moved.
+
+🜇 Temporal Glyphs
+Time, causality, chronology, and paradox
+
+Glyph	Meaning			Notes
+⌰		Time fracture			Localized instability.
+⌱		Time dilation			Time moves slower.
+⌲		Time compression		Time moves faster.
+⌳		Reverse flow			Time runs backward.
+⌴		Non‑linear time			Sequence irrelevant.
+⌵		Fixed point				Cannot be altered.
+⌶		Temporal predator		Hunts along timelines.
+⌷		Paradox anchor			Stabilizes contradictions.
+⌸		Chronal bleed			Time leaking between layers.
+
+🜈 Annex Glyphs
+Ω‑class distortions, forbidden zones, and impossible spaces
+
+Glyph	Meaning			Notes
+⧉			Annex proximity			Boundary nearby.
+⧉̸			Annex breach				Boundary broken.
+⧊			Ω‑class anomaly				Reality cannot classify.
+⧋			Recursive space			Infinite interior.
+⧌			Anti‑space					Space that subtracts.
+⧍			Null‑zone						Nothing exists here.
+⧎			Impossible object			Violates topology.
+⧏			Forbidden corridor		Curator‑sealed.
+⧐			Annex predator				Exists only in Ω‑zones.
+
+🜉 Operational Glyphs
+Tools, procedures, expeditionary actions
+
+Glyph	Meaning			Notes
+⟢̇			Anchor placed				Stability point set.
+⟣̇			Anchor removed				Corridor destabilizes.
+⟤̇			Echo‑net deployed			Safe to extract memories.
+⟥			Scan complete				Area mapped.
+⟦̇			Seal applied				Area locked.
+⟧̇			Seal broken					Area open.
+⟨̇			Extraction successful	Record secured.
+⟩̇			Extraction failed			Record lost or hostile.
+⟪̇			Stabilization active		Physics normalized.
+
+🜊 Meta‑Glyphs
+Glyphs that modify other glyphs
+
+Glyph	Meaning		Notes
+◌		Amplifier		Intensifies meaning.
+◍		Diminisher		Weakens meaning.
+◎		Absolute		Meaning is total.
+◉		Conditional		Meaning depends on context.
+◈		Recursive		Glyph applies to itself.
+◬		Temporal		Applies across time.
+◮		Spatial			Applies across space.
+◯		Observer‑linked	Meaning changes when seen.
+
+🜋 Composite Glyphs
+Two or more glyphs fused into a single meaning‑packet
+
+Examples:
+
+	⟐◬ 	— Safe passage across time
+	⧉◎ 	— Absolute Annex presence
+	⟞◈ 	— Logic fracture that fractures itself
+	⟢̱◯ 	— Observation‑dependent non‑interference
+	⧈◮ 	— Record of interest spread across space
+	⌰◬ 	— Time fracture propagating forward
+
+Composite glyphs are the highest form of expeditionary communication.
+
+🜌 Glyph Grammar
+---
+How glyphs combine into meaning
+
+Glyphs follow a simple grammar:
+
+	Primary glyph 		= subject
+	Meta‑glyph 		= modifier
+	Composite glyph 	= fused meaning
+	Sequence 		= instruction chain
+	Orientation (rotation) 	= emotional or urgency tone
+	Stroke weight 		= intensity
+
+Example:
+			   ⧈◬ ⟟ ⟤̱  
+	= “Time‑spread record. Do not observe. Withdraw.”
+
+🜃 The Galactic Encyclopedia (Galactica Library)
+------------------------------------------------
+(Pan‑Cosmic Reference Compendium for Visitors & Archivists)
+The Galactic Encyclopedia is the public‑facing knowledge system — a curated, sanitized, and heavily redacted database meant for visitors, scholars, and allied civilizations. It is the Archive’s attempt to explain the multiverse without breaking cognitoharzards.
+
+Encyclopedia Structure
+
+Aspect		TRUE Archive			Galactica Library
+Structure	Hierarchical (Annex Codes)	Infinite, random hexagons
+Content		All possible realities		All possible books
+Access		Curator-mediated, risk-based	Random,  endless
+Purpose		Exploration & preservation	Existential despair
+
+Volume I: Cosmography  
+Star classes, planetary classifications (A–Y), stellar evolution, void‑phenomena.
+Volume II: Civilizations  
+Cultures, species, political structures, mythologies, and technological tiers.
+Volume III: Phenomena  
+Wormfolds, Echo storms, paradox wells, recursive structures, Annex anomalies.
+Volume IV: Histories  
+Major events across realities, cross‑universal migrations, extinction records.
+Volume V: Entities  
+Curators, Archivists, external Lodges, cosmic predators, mythic beings.
+
+Divisions			Galactica Content						Access 		Level
+I	: Cosmography		Star classes, planetary types (A–Y), void phenomena		Public
+II	: Civilizations		Species, cultures, tech tiers, mythologies			Public
+III	: Phenomena		Wormfolds, Echo storms, paradox wells				Restricted 	(Scribe+)
+IV	: Histories		Major events, migrations, extinctions				Restricted 	(Chronicler+)
+V	: Entities		Curators, Archivists, external Lodges, cosmic predators		Redline 	(Warden+)
+VI	: Annex			Unclassifiable records						Ω-Black		(Curator)
+
+Access Levels
+Public: Class A–M entries; safe, stable, non‑paradoxical.
+Restricted: Divergence 20–60; requires Scribe clearance.
+Redline: Divergence 60–99; requires Curator approval.
+Ω‑Black: Annex‑only; not included in the Encyclopedia (but referenced cryptically).
+
+Encyclopedia Features
+Auto‑Updating: Syncs with new records as they are archived.
+Cross‑Reality Indexing: Entries link to Annex Codes.
+Echo‑Safe Formatting: Designed to avoid psychic feedback.
+Visitor Mode: Simplified, metaphor‑based explanations.
+Scholar Mode: Raw data, glyphs, and cross‑references.
+
+Contracts, Bounties & Offers
+----------------------------
+The transactional backbone of multiversal exploration
+
+These three systems govern how entities interact with the Archive, with each other, and with the infinite realities cataloged within.
+They are not merely legal frameworks — they are metaphysical instruments that bind stories, timelines, and obligations.
+
+🜂 Contracts
+---
+(Binding agreements enforced by essence physics)
+
+Contracts in the TRUE Archive are not paper documents.
+They are story‑locks: metaphysical agreements that bind participants through causality, Echoes, and Annex‑grade logic.
+
+Types of Contracts
+
+	Causal Contracts  
+		Bind actions to consequences across timelines.
+		Breaking one causes “causal recoil” — the universe corrects you violently.
+
+	Echo Contracts  
+		Agreements written into memory‑space.
+		Violation results in memory bleed or identity drift.
+
+	Annex Contracts  
+		Forbidden pacts involving Ω‑class entities or spaces.
+		Breaking one risks Annex attention.
+
+	Curatorial Contracts  
+		Deals made directly with the Curator.
+		Terms are always fulfilled — but never as expected.
+
+Contract Structure
+
+	Each contract contains:
+
+	Clause Glyphs 		— symbolic logic defining obligations
+	Causal Anchors 		— fixed points ensuring compliance
+	Echo Signatures 	— identity markers
+	Termination Conditions 	— how the contract ends
+	Sanity Cost 		— mental strain for maintaining the pact
+
+Contracts are stored in the Lodge of Silent Binding unless they involve external Lodges.
+
+🜃 Bounties
+---
+(Tasks, hunts, or missions issued by Archive or external powers)
+
+Bounties are tasks: missions that alter or preserve structures.
+
+They are issued by:
+
+	The Curator
+	Internal Lodges
+	External Lodges
+	Entire universes
+	Dying timelines
+
+	Annex entities (rare, dangerous)
+
+Bounty Categories
+--
+	Stabilization Bounties  
+		Fix collapsing timelines, seal ruptures, repair logic fractures.
+
+	Extraction Bounties  
+		Retrieve artifacts, Echoes, or living records.
+
+	Containment Bounties  
+		Neutralize or relocate dangerous entities.
+
+	Annex Bounties  
+		Ω‑class missions; success is survival.
+
+	Essence Bounties  
+		Intervene to prevent collapse or corruption.
+
+Bounty Components
+
+	Issuer glyph 		— who issued it
+	Target Code 		— Annex Code of the reality involved
+	Hazard Rating 		— Echo, Divergence, Annex risk
+	Reward Structure 	— cycles, permissions, licenses
+	Failure Consequences 	— sometimes worse than death
+
+Bounties are posted in the Galleries, Curator’s Office, and external guild halls.
+
+🜄 Offers
+--
+(Negotiated exchanges of value, knowledge, or access)
+
+Offers are non‑binding proposals that become Contracts only if accepted.
+They are the “soft diplomacy” of the Archive.
+
+Offer Types
+
+	Curatorial Offers  
+		The Curator provides a clue, artifact, or code in exchange for… something.
+
+	Lodge Offers  
+		Internal Lodges trade access, protection, or knowledge.
+
+	Guild Offers  
+		External guilds propose joint expeditions, resource trades, or political alliances.
+
+	Reality Offers  
+		Entire universes “offer” boons to visitors who fulfill essential roles.
+
+Offer Mechanics
+
+	Non‑binding until sealed with a Contract glyph
+	Reversible unless tied to a Causal Anchor
+	Negotiable — even with Annex entities
+	Time‑sensitive — some expire when timelines shift
+
+Offers are the safest way to interact with unknown powers — but also the easiest to misinterpret.
+
+🜅 The Tri‑System Relationship
+---
+How Contracts, Bounties, and Offers interact
+
+Type			Issued By			Example				Reward
+
+Containment Contract	Containment Cartographers	Seal a Class Y reality		Echo-forged artifact
+Redaction Bounty	Wandering Ledger		Erase knowledge of a paradox	Causal debt forgiveness
+Survey Offer		Annex Cartographers		Map a Class W reality		Topological Compass
+Apex-Class Bounty	Curator				Neutralize multiversal threat	Prime status
+
+Offers → Contracts
+	An Offer becomes a Contract when sealed with a glyph.
+
+Contracts → Bounties
+	A Contract may require completing a Bounty.
+
+Bounties → Offers
+	Completing a Bounty often earns new Offers from Lodges or universes.
+
+Contracts ↔ Annex
+	Annex Contracts override all others.
+
+Bounties ↔ Curator
+	The Curator may alter Bounties mid‑mission.
+
+Offers ↔ External Lodges
+	External Lodges use Offers to manipulate Archive politics.
+
+🜁 Non‑Archive Contracts & Bounties
+---
+The transactional systems of external Lodges, Guilds, and cosmic powers
+
+Outside the Archive, the multiverse runs on wild law — agreements enforced not by the Curator, but by:
+
+	Causal inertia
+	Mythic obligation
+	External enforcement guilds
+	Reality‑specific metaphysics
+	Predatory entities that treat contracts as hunting tools
+
+These systems are older, stranger, and often more dangerous than the Archive’s internal frameworks.
+
+🜂 Non‑Archive Contracts
+---
+Agreements enforced by external metaphysics, not Archive law
+
+External contracts are not story‑locks like Archive contracts.
+They vary wildly depending on the issuing civilization or Lodge.
+
+Major Types of Non‑Archive Contracts
+
+	1. Fate‑Bound Contracts
+
+		Issued by mythic or deterministic universes.
+		Breaking one rewrites your destiny.
+		Some universes send “Fate Correctors” to enforce terms.
+
+	2. Ledger Contracts (Wandering Ledger)
+
+		Mathematical‑causal agreements.
+		Terms are expressed as equations.
+		Violations create “causal debt” that must be paid in events.
+
+	3. Forge Contracts (Pale Forge)
+
+		Techno‑mythic fabrication agreements.
+		You receive a synthetic universe, tool, or physics constant.
+		Payment is usually a memory, lifespan, or timeline.
+
+	4. Witness Contracts (Last Witness)
+
+		End‑of‑world agreements.
+		You agree to observe a dying universe.
+		Payment is knowledge — or trauma.
+
+	5. Keybreaker Pacts
+
+		Criminal‑grade contracts.
+		Terms often involve breaking into sealed realities.
+		Enforcement is handled by the Keybreakers themselves.
+
+	6. Shepherd Accords (Horizon Shepherds)
+
+		Humanitarian contracts.
+		You escort refugees between worlds.
+		Payment is sanctuary, protection, or political favor.
+
+	7. Unwritten Oaths (Unwritten Path)
+
+		Anti‑fate agreements.
+		You vow to break a predestined event.
+		Failure means becoming part of the fate you tried to break.
+
+🜃 Non‑Archive Contract Structure
+---
+External contracts use different symbolic systems than Archive glyphs.
+
+Most include:
+
+	Obligation Vector 	— what must be done
+	Enforcement Mechanism 	— fate, math, myth, or violence
+	Penalty Clause 		— often metaphysical
+	Witness Seal 		— who observes the contract
+	Termination Condition 	— how the contract ends
+
+Some contracts are alive.
+Some contracts hunt you if you break them.
+
+🜄 Non‑Archive Bounties
+--
+Tasks, hunts, and missions issued by external powers
+
+External bounties are not posted on Archive boards.
+
+They circulate through:
+
+	Guild halls
+	Cosmic marketplaces
+	Mythic courts
+	Rogue universes
+	Annex‑adjacent black markets
+
+Major Types of External Bounties
+
+	1. Ledger Reclamation Bounties
+		Issued by the Wandering Ledger.
+
+		Retrieve stolen probability.
+		Correct impossible events.
+		Collect causal debt.
+
+	2. Forge Retrieval Bounties
+		Issued by the Pale Forge.
+
+		Recover escaped synthetic universes.
+		Neutralize unstable forge‑cores.
+		Capture rogue physics.
+
+	3. Witness Terminal Bounties
+		Issued by the Last Witness.
+
+		Attend the death of a universe.
+		Record its final moment.
+		Ensure no one interferes.
+
+	4. Keybreaker Heist Bounties
+		Issued by the Keybreakers.
+
+		Break into sealed realities.
+		Steal artifacts or entities.
+		Evade Archive detection.
+
+	5. Shepherd Evacuation Bounties
+		Issued by Horizon Shepherds.
+
+		Evacuate populations from collapsing worlds.
+		Stabilize horizon corridors.
+		Escort refugees to sanctuary.
+
+	6. Unwritten Intervention Bounties
+		Issued by the Unwritten Path.
+
+		Break predestined events.
+		Assassinate inevitabilities.
+		Destroy causal anchors.
+
+🜅 Non‑Archive Bounty Structure
+--
+External bounties include:
+
+	Issuer Mark 		— symbol of the Lodge/Guild
+	Target Reality Code 	— not Annex Code; external systems vary
+	Hazard Tier 		— mythic, causal, temporal, or existential
+	Reward Vector 		— cycles, favors, physics, or sanctuary
+	Failure Cost 		— often irreversible
+
+Some bounties are predatory:
+
+	Accepting them binds you to the issuer permanently.
+
+🜆 How Non‑Archive Systems Interact With the Archive
+---
+The Archive does not recognize external contracts.
+
+External Lodges do not respect Archive law.
+The Curator may intervene only if Annex risk is involved.
+External bounties often conflict with Archive missions.
+Some external contracts override Archive contracts (rare, dangerous).
+Some external bounties target Archive assets.
+
+This is why the Archive maintains Lodges like:
+
+Curator’s Shadow (counter‑intelligence)
+Silent Binding (contract containment)
+First Lens (external hazard analysis)
+
+Aspect		Archive					Lodge Foundations
+
+Purpose		Preserve & explore all realities	Anomalies Focus
+Classification	Annex Codes (structured hierarchy)	Object Classes
+Factions	Lodges & Guilds				Mostly internal
+Tone		Mystical + scientific			Clinical + bureaucratic
+Visitor Role	Expeditionaries, Scholars, Visitors	Personnel, Researchers
+Anomalies	Realities, timelines, records		Objects, entities, phenomena
+
+---
+
+The TRUE Archive Module
+
+Cross-System Campaigns:
+   - start in home system and gradually explore outward.
+   - Use codes to determine compatibility.
+
+Creative Safeguards
+- Generic Codes: Avoid direct references (e.g., `[\code\]` = "Baseline").
+- Community Tools
+: Release a "Codex Generator" for TRUE users to contribute their own records.
