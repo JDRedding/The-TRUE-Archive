@@ -65,15 +65,16 @@ Locations situated “between” ... that is, spaces that exist in the perceptua
 
 Mapping (Model, approximate)
 
-# Class 			Type				 Function /  Role
-Ǝ Elemental			Air, Earth, Fire, Water		Fundamental building blocks of matter
-Æ Energy (Æther)		+/-; Positive, Negative		Governs life, death, and energy interactions
+# Class 				Type				 			Function /  Role
+Ǝ Elemental				Air, Earth, Fire, Water			Fundamental building blocks of matter
+Æ Energy (Æther)		+/-; Positive, Negative			Governs life, death, and energy interactions
 ɘ Para-elemental 		Magma (Fire + Earth), 
-				Ooze (Earth + Water), 
-				Smoke (Air + Fire), 
-				Ice (Water + Air)		Interaction location zones; transition spaces
+						Ooze (Earth + Water), 
+						Smoke (Air + Fire), 
+						Ice (Water + Air)				Interaction location zones; transition spaces
 ◌́ Quasi-elemental 		Radiance, Lightning, Mineral, 
-				Steam, Salt, Dust, Ash, Vacuum	Blending of elemental and energetic forces; exotic locales
+						Steam, Salt, Dust, Ash, Vacuum	Blending of elemental and energetic forces;
+														exotic locales
 
 Class A̱: Mythic (primordial-dominant); 𐤀 are the oldest locations and carries the meaning of “origin, foundation”.
 Class Æ: Magic (ritual-dominant); Active aetheric forces and operations; The “call” or “invoke” operator in MANA OS interactions, primary energy forms (Positive Energy, Negative Energy)
@@ -205,12 +206,12 @@ META-REALITY BAND: U – Z
 ANNEX BAND:        Ω
 
 SUBCLASS, Proximity to Baseline, Example
-00,	Identical to  universe,	Earth-Prime
-01–10,	Minor changes,		Alternate history (e.g., "Napoleon won Waterloo")
-11–30,	Moderate changes,	Magic exists but is rare
-31–60,	Major changes,		Non-human dominant species
-61–90,	Radical changes,	Physics fundamentally different
-91–99,	Unrecognizable,		Reality is a song, time is circular
+00		Identical to  universe,	Earth-Prime
+01–10 	Minor changes 		Alternate history (e.g., "Napoleon won Waterloo")
+11–30 	Moderate changes 	Magic exists but is rare
+31–60 	Major changes 		Non-human dominant species
+61–90 	Radical changes 	Physics fundamentally different
+91–99 	Unrecognizable 		Reality is a song, time is circular
 
 This gives a complete, continuous spectrum from:
 
@@ -313,7 +314,7 @@ Records actively resist containment
 Concepts, Matters, Additions
 What is a "Record"? Core archival unit; A Record is a self-contained essence fragment: a book, hologram, living memory, or quantum-encoded story that preserves a moment, entity, or timeline.
 
-How do Observatories work? MDescribe Sanity-preserving protocols, lens-geometry, observer-paradox mitigation.
+How do Observatories work? Describe Sanity-preserving protocols, lens-geometry, observer-paradox mitigation.
 
 What is "Contamination"? Risk of intervention; Exists as tiers of contamination (e.g., Minor: Localized timeline drift, Major: Reality rupture, Catastrophic: Annex breach).
 
@@ -377,37 +378,48 @@ Interpreted Examples:
 [Ω/XX-99-99-Ω] → Annex, undefined, max divergence, no subtype
 
 Institutional Orders of the Archive: Lodges & Guilds
+---
 🜁 Lodges & Guilds of the TRUE Archive
+---
 (Institutional Factions, Expeditionary Orders, and Para‑Scholastic Societies)
 The Archive is not merely a place — it is an ecosystem of competing, cooperating, and knowledge‑orders. These Lodges and Guilds form the social, political, and metaphysical infrastructure that keeps the Archive functioning (or malfunctioning).
 
 1. The Lodge of Silent Binding
-“We bind what must not wander.”
+
+			“We bind what must not wander.”
+
 Role: Prevent dangerous records from escaping their containers.
 Specialty: Metaphysical sealing, anti‑contamination wards, Annex quarantine.
 Perk: Members can “mute” a record’s Echoes for short periods.
 Cost: Gradual loss of personal memories (the Lodge calls this “donation”).
 
 2. The Lodge of the First Lens
-“Observation is creation.”
+
+			“Observation is creation.”
+
 Role: Overseers of Observatories; experts in high‑Divergence study.
 Specialty: Sanity‑preserving viewing protocols, lens‑geometry, observer‑paradox mitigation.
 Perk: Can view Annex‑tier realities without immediate rupture.
 Cost: Members slowly become partially transparent.
 
 3. The Lodge of the Curator’s Shadow
-“The Curator sees all. We see what it does not.”
+
+			“The Curator sees all. We see what it does not.”
+
 Role: Internal auditors, spies, and counter‑oracles.
 Specialty: Tracking Curator anomalies, predicting Archive moods, sabotage prevention.
 Perk: Access to Curator‑locked wings.
 Cost: The Curator always knows their names.
 
 🜄 The Guilds (External‑Facing Expeditionary Orders)
+---
 Guilds are outward‑facing, sending members into other universes to retrieve, repair, or record. They operate like cosmic unions: each has ranks, rites, and hazard pay.
 
 1. Guild of Echo Divers
 ------------------------
-“We swim in the wake.”
+
+			“We swim in the wake.”
+
 Role: Enter unstable timelines to capture Echoes (psychic imprints).
 Tools: Echo‑nets, mnemonic anchors, divergence‑tuning forks.
 Risk: Echo‑overload → personality fragmentation.
@@ -415,13 +427,15 @@ Prestige: Highest fatality rate = highest respect.
 
 2. Guild of Annex Cartographers
 --------------------------------
-“The Annex is not a place. It is a direction.”
+
+			“The Annex is not a place. It is a direction.”
+
 Role: Map the unmappable; chart Ω‑class realities.
 Tools: Topological compasses, paradox sextants, recursive maps.
 Risk: Returning with a map that maps you instead.
 Prestige: Only guild allowed to petition the Curator directly.
 
-The Cartographers are among the most respected (and quietly feared) expeditionaries in the Archive. While most guilds venture into known or semi-known realities, the Cartographers alone are sanctioned to push into Ω-class territories — realities that actively resist classification, where the Archive’s own codification systems begin to fail. They do not “explore” in the traditional sense. They witness topology and attempt to bring back something coherent enough to be recorded without unraveling the mind of the reader.
+The Archive's Cartographers are among the most respected (and quietly feared) expeditionaries in the Archive. While most guilds venture into known or semi-known realities, the Cartographers alone are sanctioned to push into Ω-class territories — realities that actively resist classification, where the Archive’s own codification systems begin to fail. They do not “explore” in the traditional sense. They witness topology and attempt to bring back something coherent enough to be recorded without unraveling the mind of the reader.
 
 Guild of Annex Cartographers: Rank StructureThe Cartographers maintain the same foundational ranks used across all Lodges and Guilds of the TRUE Archive, but each rank carries specialized meaning, privileges, and dangers within their Ω-focused order.
 
@@ -481,7 +495,7 @@ Guild Rank Required: Expeditionary or higher.
 Mechanics:
 Short Range (100m): Reveals safe paths (⟐), unstable routes (⟁).
 Long Range (1km): Detects Annex proximity (⧉).
-Overuse: User perceives all lines as curved (lasts 1d6 days).
+Overuse: User perceives all lines as curved (lasts for days).
 Critical Failure: User becomes a non-Euclidean entity (permanent).
 
 Paradox Sextants
@@ -537,15 +551,16 @@ Chronicler — Writes official Archive entries; can alter minor records.
 Warden — Oversees a Gallery, Observatory, or Annex gate.
 Prime — One per Lodge/Guild; negotiates with the Curator.
 
-Rank,		Internal 	Lodges,		Guilds,		External Orders,		Privileges, Costs/Risks
-Initiate,	Observer,	Apprentice,	Spark,		Access to safe records,		None
-Scribe,		Cataloger,	Journeyman,	Hammer,		Handle Class A–M records,	Minor Echo exposure
-Expeditionary,	Field Agent,	Full Member,	Anvil,		Fieldwork in Class U–Z,		Topological scars, memory loss
-Chronicler,	Archivist,	Senior Member,	Brand,		Alter minor records,		Personality fragmentation
-Warden,		Overseer,	Commander,	Master,		Seal/Unseal gates,		Prime's attention
-Prime,		Lodge Leader,	Guild Leader,	Exalted,	Negotiate with Curator,		Loss of form
+Rank 			Internal Lodges, Guilds, External Orders		Privileges 	 				Costs/Risks
+Initiate 		Observer, 	Apprentice,	Spark 					Access to safe records 		None
+Scribe 			Cataloger,	Journeyman,	Hammer					Handle Class A–M records,	Minor Echo exposure
+Expeditionary 	Field Agent, Full Member, Anvil 				Fieldwork in Class U–Z 		Topological scars, memory loss
+Chronicler 		Archivist, Senior Member,Brand					Alter minor records 		Personality fragmentation
+Warden 			Overseer, Commander, Master 					Seal/Unseal gates 			Prime's attention
+Prime 			Lodge Leader, Guild Leader,	Exalted 			Negotiate with Curator 		Loss of form
 
 🜁 Inter‑Order Politics
+---
 Lodges tend to be conservative, protective, and territorial.
 Guilds are competitive, reckless, and glory‑driven.
 The Curator plays them against each other to maintain balance.
