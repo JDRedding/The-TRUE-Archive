@@ -215,7 +215,7 @@ SUBCLASS, Proximity to Baseline, Example
 
 This gives a complete, continuous spectrum from:
 
-	elemental → proto‑habitable → habitable → extreme → meta‑causal → unclassifiable.
+	elemental → proto‑habitable → habitable → extreme → meta‑causal → unclassifiable
 
 General Notes
 Classes consider age, location, surface conditions, atmosphere composition, and potential for life. Classes can evolve as age geologically: e.g., Class A→C→G→M in some cases. Class M is canonically the most referenced as suitable without special modifications. Other dangerous or extreme classes like Y or Q are often flagged to navigate hazardous scenarios or unique cultures. These classifications are utilized across the archive to give scribes and expeditionaries a consistent way to understand environments, whether for exploration, colonization, or potential hazards in missions.
@@ -1045,120 +1045,120 @@ They are readable by:
 🜂 Path Glyphs
 Navigation, traversal, corridor stability
 
-Glyph	Meaning			Notes
-⟐			Safe passage					Corridor stable for ≥ 3 cycles.
-⟡			Safe but shifting				Path moves; follow rhythm.
-⟁			Unstable route					Echo turbulence; proceed lightly.
-⧖			One‑way path						Return impossible without Curator.
-⧗			Time‑skewed path				Arrival time ≠ departure time.
-⟊			Path loops						Recursive corridor; anchor required.
-⟫			Forced direction				Corridor pushes travelers.
+Glyph		Meaning						Notes
+⟐			Safe passage				Corridor stable for ≥ 3 cycles.
+⟡			Safe but shifting			Path moves; follow rhythm.
+⟁			Unstable route				Echo turbulence; proceed lightly.
+⧖			One‑way path				Return impossible without Curator.
+⧗			Time‑skewed path			Arrival time ≠ departure time.
+⟊			Path loops					Recursive corridor; anchor required.
+⟫			Forced direction			Corridor pushes travelers.
 ⟦⟧			Corridor sealed				Usually by Silent Binding.
 ⟠			Reality inversion ahead		Physics flips; prepare counter‑stance.
 
 🜄 Hazard Glyphs
 Environmental, metaphysical, or danger
 
-Glyph	Meaning			Notes
-⟁			Echo hazard					Psychic residue; memory bleed.
-⌰		 Temporal instability	 Time fractures; avoid loops.
-⧉			Annex proximity			Ω‑class distortion nearby.
-⟞			Logic fracture				Cause/effect unreliable.
-⟜			Ontological hazard		Existence may not persist.
-⟡̸			Anti‑observer field		Observation alters outcome.
-⟢			Essence predator			Entity hunts story‑threads.
-⟗			Causal rupture				Events may detach from timeline.
-⟤			Memory predation			Thoughts become edible.
-⟬			Paradox well				Avoid at all costs.
+Glyph	Meaning					Notes
+⟁		Echo hazard				Psychic residue; memory bleed.
+⌰		Temporal instability	Time fractures; avoid loops.
+⧉		Annex proximity			Ω‑class distortion nearby.
+⟞		Logic fracture			Cause/effect unreliable.
+⟜		Ontological hazard		Existence may not persist.
+⟡̸		Anti‑observer field		Observation alters outcome.
+⟢		Essence predator		Entity hunts story‑threads.
+⟗		Causal rupture			Events may detach from timeline.
+⟤		Memory predation		Thoughts become edible.
+⟬		Paradox well			Avoid at all costs.
 
 🜃 Record Glyphs
 Tagging events, artifacts, entities, or nodes
 
-Glyph	Meaning			Notes
+Glyph		Meaning					Notes
 ⧈			Record of interest		Mark for retrieval.
-⧇			High‑value record			Priority extraction.
-⧅			Corrupted record			Handle with Echo‑nets.
+⧇			High‑value record		Priority extraction.
+⧅			Corrupted record		Handle with Echo‑nets.
 ⧉̱			Annex‑origin record		Requires Warden approval.
-⧂			Living record				Entity is a story‑node.
+⧂			Living record			Entity is a story‑node.
 ⧃			Self‑writing record		Do not edit.
-⧀			Recursive record			Contains itself.
-⧑			Time‑anchored record		Fixed point; cannot be altered.
-⧒			Forbidden record			Curator‑locked.
+⧀			Recursive record		Contains itself.
+⧑			Time‑anchored record	Fixed point; cannot be altered.
+⧒			Forbidden record		Curator‑locked.
 
 🜅 Intent Glyphs
 Communication between expeditionaries without speech
 
-Glyph	Meaning		Notes
-⟟			Do not observe	Observation triggers event.
-⟢̱			Observe only	No intervention allowed.
-⟣			Intervene		Authorized to alter timeline.
-⟤̱			Withdraw			Retreat immediately.
-⟧			Hold position	Await further signals.
-⟨			Follow			Move behind glyph‑maker.
-⟩			Lead				Take point.
-⟪			Silence			No sound; reality sensitive.
-⟫̱			Speak				Safe to communicate.
+Glyph	Meaning			Notes
+⟟		Do not observe	Observation triggers event.
+⟢̱		Observe only	No intervention allowed.
+⟣		Intervene		Authorized to alter timeline.
+⟤̱		Withdraw		Retreat immediately.
+⟧		Hold position	Await further signals.
+⟨		Follow			Move behind glyph‑maker.
+⟩		Lead			Take point.
+⟪		Silence			No sound; reality sensitive.
+⟫̱		Speak			Safe to communicate.
 
 🜆 Entity Glyphs
 Marking beings, intelligences, or metaphysical actors
 
-Glyph	Meaning			Notes
-⟬̱			Non‑hostile entity			Safe to approach.
-⟭			Hostile entity				Avoid or neutralize.
-⟮			Observer entity			Watches but does not act.
-⟯			Essence entity				Exists only in story‑logic.
-⟰			Annex entity				Ω‑class; do not engage.
-⟱			Curator fragment			Harmless but unpredictable.
-⟲			Echo‑being					Made of memory.
-⟳			Loop‑being					Exists in recursion.
-⟴			Time‑anchored being		Cannot be moved.
+Glyph	Meaning					Notes
+⟬̱		Non‑hostile entity		Safe to approach.
+⟭		Hostile entity			Avoid or neutralize.
+⟮		Observer entity			Watches but does not act.
+⟯		Essence entity			Exists only in story‑logic.
+⟰		Annex entity			Ω‑class; do not engage.
+⟱		Curator fragment		Harmless but unpredictable.
+⟲		Echo‑being				Made of memory.
+⟳		Loop‑being				Exists in recursion.
+⟴		Time‑anchored being		Cannot be moved.
 
 🜇 Temporal Glyphs
 Time, causality, chronology, and paradox
 
-Glyph	Meaning			Notes
-⌰		Time fracture			Localized instability.
-⌱		Time dilation			Time moves slower.
-⌲		Time compression		Time moves faster.
-⌳		Reverse flow			Time runs backward.
-⌴		Non‑linear time			Sequence irrelevant.
-⌵		Fixed point				Cannot be altered.
-⌶		Temporal predator		Hunts along timelines.
-⌷		Paradox anchor			Stabilizes contradictions.
-⌸		Chronal bleed			Time leaking between layers.
+Glyph	Meaning				Notes
+⌰		Time fracture		Localized instability.
+⌱		Time dilation		Time moves slower.
+⌲		Time compression	Time moves faster.
+⌳		Reverse flow		Time runs backward.
+⌴		Non‑linear time		Sequence irrelevant.
+⌵		Fixed point			Cannot be altered.
+⌶		Temporal predator	Hunts along timelines.
+⌷		Paradox anchor		Stabilizes contradictions.
+⌸		Chronal bleed		Time leaking between layers.
 
 🜈 Annex Glyphs
 Ω‑class distortions, forbidden zones, and impossible spaces
 
-Glyph	Meaning			Notes
-⧉			Annex proximity			Boundary nearby.
-⧉̸			Annex breach				Boundary broken.
-⧊			Ω‑class anomaly				Reality cannot classify.
-⧋			Recursive space			Infinite interior.
-⧌			Anti‑space					Space that subtracts.
-⧍			Null‑zone						Nothing exists here.
-⧎			Impossible object			Violates topology.
-⧏			Forbidden corridor		Curator‑sealed.
-⧐			Annex predator				Exists only in Ω‑zones.
+Glyph	Meaning					Notes
+⧉		Annex proximity			Boundary nearby.
+⧉̸		Annex breach			Boundary broken.
+⧊		Ω‑class anomaly			Reality cannot classify.
+⧋		Recursive space			Infinite interior.
+⧌		Anti‑space				Space that subtracts.
+⧍		Null‑zone				Nothing exists here.
+⧎		Impossible object		Violates topology.
+⧏		Forbidden corridor		Curator‑sealed.
+⧐		Annex predator			Exists only in Ω‑zones.
 
 🜉 Operational Glyphs
 Tools, procedures, expeditionary actions
 
-Glyph	Meaning			Notes
-⟢̇			Anchor placed				Stability point set.
-⟣̇			Anchor removed				Corridor destabilizes.
-⟤̇			Echo‑net deployed			Safe to extract memories.
-⟥			Scan complete				Area mapped.
-⟦̇			Seal applied				Area locked.
-⟧̇			Seal broken					Area open.
-⟨̇			Extraction successful	Record secured.
-⟩̇			Extraction failed			Record lost or hostile.
-⟪̇			Stabilization active		Physics normalized.
+Glyph	Meaning					Notes
+⟢̇		Anchor placed			Stability point set.
+⟣̇		Anchor removed			Corridor destabilizes.
+⟤̇		Echo‑net deployed		Safe to extract memories.
+⟥		Scan complete			Area mapped.
+⟦̇		Seal applied			Area locked.
+⟧̇		Seal broken				Area open.
+⟨̇		Extraction successful	Record secured.
+⟩̇		Extraction failed		Record lost or hostile.
+⟪̇		Stabilization active	Physics normalized.
 
 🜊 Meta‑Glyphs
 Glyphs that modify other glyphs
 
-Glyph	Meaning		Notes
+Glyph	Meaning			Notes
 ◌		Amplifier		Intensifies meaning.
 ◍		Diminisher		Weakens meaning.
 ◎		Absolute		Meaning is total.
