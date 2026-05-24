@@ -77,8 +77,58 @@ Mapping (Model, approximate)
 														exotic locales
 
 Class A̱: Mythic (primordial-dominant); 𐤀 are the oldest locations and carries the meaning of “origin, foundation”.
+
 Class Æ: Magic (ritual-dominant); Active aetheric forces and operations; The “call” or “invoke” operator in MANA OS interactions, primary energy forms (Positive Energy, Negative Energy)
+
 Class Ṁ: Mana  (Energetic-dominant); Raw energy locations; Flow, charge, vitality substrate “fuel” layer of MANA OS; These include pure elements (Air, Earth, Fire, Water), Para-elemental or quasi-elemental planes, representing intersections of elements or element-energy combinations (e.g., Smoke between Air and Fire, Frost between Water and Air).
+
+M vs Ṁ PROCESS-STATE
+--------------------
+M	= Class M (static modal category)
+Ṁ	= Activated M (dynamic operator state)
+
+The Dot Notation (˙): Dynamic Operator States
+In The TRUE Archive, the dot (˙) above a class symbol (e.g., Ṁ, Ȧ̱, Ẋ) denotes its **activated, process-state form.
+
+   Static Class 	| Dynamic Class 	| Purpose
+ |------------------	|-------------------	|-------------
+ | M			| Ṁ			| Earth-like reality in active operation (rituals, essence flow). 
+ | A̱ 			| Ȧ̱			| Mythic reality executing divine operations. 
+ | X 			| Ẋ			| Xenoreality actively resisting classification. 
+ | Ω 			| Ω̇			| Annex reality in the process of assimilating observers. 
+
+Rule: All MANA OS operations, rituals, and interstratal interactions require dynamic (dotted) classes.
+
+The dot denotes the process-state of a modal class.
+
+Ṁ is required for:
+  • relational derivatives
+  • MANA runtime execution
+  • Essence-flow activation
+  • Interstratal propagation
+  • Ritual operations
+
+M is a type. Ṁ is an action. The dot notation (˙) is the classification system from static taxonomy into a dynamic operational framework.
+
+THE DOT (˙) =  OPERATOR
+Symbol	Meaning				Role      
+M     	Static Modal Category      	Classifies what a reality is      
+Ṁ     	Dynamic Operator State     	Classifies how a reality behaves     
+  
+The dot (˙) denotes:
+: Activation (static → dynamic)
+: Process (category → operation)
+: Runtime (definition → execution)
+: Flow (state → transition)
+
+   Aspect          	| Static Class (M) 	| Dynamic Class (Ṁ) 
+ |----------------------|----------------------	|------------------------
+ | State            	| Passive, defined    	| Active, executing      
+ | Essence Flow     	| None                 	| Channeling            
+ | MANA OS Role     	| Data                 	| Runtime               
+ | Ritual Use       	| Target               	| Operator              
+ | Interstratal     	| Contained            	| Propagating           
+ | Example          	| A planet             	| A planet mid-teleport
 
 Characteristics of Early Interstratal Location
 Elemental Purity: Each exaggerates a particular fundamental force or substance
@@ -268,13 +318,23 @@ Timeline Data
 </RECORD>
 
 Issues
-Format explained: [A/0-00-00-00.0] as [CLASS-REALITY-DIVERGENCE-SUBTYPE]
+Format explained: [A/0-00-00-00.0] as [CLASS / SUBCLASS – REALITY – DIVERGENCE – SUBTYPE]
 
-CLASS = A, Ṁ, Æ, X, U, V, W, Y, Z, Ω
+CLASS Options:
+- Static Classes: A, M, A̱, Æ, X, U, V, W, Y, Z, Ω
+- Dynamic Classes: Ȧ, Ṁ, Ȧ̱, Æ̇, Ẋ, U̇, V̇, Ẇ, Ẏ, Ż, Ω̇
+  (Add ˙ to any static class to denote its activated state.)
 SUBCLASS = 00–99 (logarithmic proximity to baseline)
 REALITY = 00–99 (environmental/structural characteristics)
 DIVERGENCE = 00–99 (physics/logic deviation)
 SUBTYPE = a–z / 0–9 (theme, flavor, or cultural mode)
+
+Note: Dynamic classes (Ṁ, etc.) are used exclusively in:
+- MANA OS runtime
+- Ritual operations
+- Essence-flow activation
+- Interstratal propagation
+- Relational derivatives
 
 SUBCLASS Definition,/0 = proximity to baseline
 01 minor, 50 major, 99 unrecognizable
@@ -319,6 +379,13 @@ How do Observatories work? Sanity/Essence-preserving protocols, lens-geometry, o
 What is "Contamination"? Risk of intervention; Exists as tiers of contamination (e.g., Minor: Localized timeline drift, Major: Reality rupture, Catastrophic: Annex breach).
 
 How are Codes Assigned? Automated, Curator-resolved; Decided from expeditionary-submitted codes.
+
+   Existence 			| Static Code 		| Dynamic Code 		| Explanation 
+ |--------------		|-----------------	|------------------	|-----------------
+ | A stable Earth-like world 	| [M/00-00-00-a] 	| N/A 			| No active operations. 
+ | Earth-like MANA OS  		| N/A 			| [Ṁ/00-00-00-a] 	| Ṁ = activated for runtime. 
+ | A mythic world channeling	| [A̱/05-80-30-b] 	| [Ȧ̱/05-80-30-b] 	| Ȧ̱ = Essence-flow active. 
+ | A xenoreality resisting  	| [X/90-99-00-Ω] 	| [Ẋ/90-99-00-Ω] 	| Ẋ = actively propagating. 
 
 ---
 
