@@ -1,7 +1,7 @@
-===============================================================================
+
                               T R U E   A R C H I V E
                                    README.md
-===============================================================================
+
 
 A trans‑dimensional repository documenting every possible (and impossible)
 reality, timeline, and existence. Maintained by Archivists, explored by
