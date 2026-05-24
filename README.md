@@ -75,14 +75,6 @@ EXAMPLES
 
 4. STATIC VS DYNAMIC CLASSES (DOT NOTATION)
 
-STATIC CLASS
-    M, A_, AE, X, U, V, W, Y, Z, OMEGA
-    -> What a reality IS.
-
-DYNAMIC CLASS (dot)
-    M., A_., AE., X., U., V., W., Y., Z., OMEGA.
-    -> What a reality is DOING.
-
 THE DOT OPERATOR
     Converts:
         category -> operation
@@ -96,16 +88,6 @@ REQUIRED FOR:
     - Essence-flow activation
     - Interstratal propagation
     - Relational derivatives
-
- TABLE
-    Static (M)        | Dynamic (M.)
-    ------------------|-------------------------
-    Passive           | Active
-    No Essence Flow   | Channeling
-    Data              | Runtime
-    Target            | Operator
-    Contained         | Propagating
-    Planet            | Planet mid-teleport
 
 5. INTERSTRATAL LOCATIONS (CLASS -9)
 
