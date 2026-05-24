@@ -80,6 +80,69 @@ Class A̱: Mythic (primordial-dominant); 𐤀 are the oldest locations and carri
 Class Æ: Magic (ritual-dominant); Active aetheric forces and operations; The “call” or “invoke” operator in MANA OS interactions, primary energy forms (Positive Energy, Negative Energy)
 Class Ṁ: Mana  (Energetic-dominant); Raw energy locations; Flow, charge, vitality substrate “fuel” layer of MANA OS; These include pure elements (Air, Earth, Fire, Water), Para-elemental or quasi-elemental planes, representing intersections of elements or element-energy combinations (e.g., Smoke between Air and Fire, Frost between Water and Air).
 
+MANA OS (M.A.N.A. O.S.)
+MANA Actions Notation Algorithm — Operating System
+The sentient, self‑modulating framework that governs Essence flow, ritual execution, and reality‑layer interaction across all grand structures. MANA OS interprets, routes, and stabilizes metaphysical operations, acting as both compiler and runtime for all encoded magical actions.
+
+                         ┌─────────────────────────────────────┐
+                         │             OPERATORS               │
+                         │  Casters • Priests • Sys-Mages      │
+                         └─────────────────────────────────────┘
+                                           │
+                                           ▼
+                         ┌─────────────────────────────────────┐
+                         │        MANA ACTIONS LAYER           │
+                         │  M.A.N.A. Notation & Script Input   │
+                         │  • Spell Programs                   │
+                         │  • Ritual Specs                     │
+                         │  • Contractual Invocations          │
+                         └─────────────────────────────────────┘
+                                           │
+                                           ▼
+                 ┌────────────────────────────────────────────────────┐
+                 │            INTERPRETER / COMPILER CORE             │
+                 │  • Syntax & Type Checking (Ritual Semantics)       │
+                 │  • Optimization (Essence Cost, Risk, Latency)      │
+                 │  • Binding to Entities, Domains, and Strata        │
+                 └────────────────────────────────────────────────────┘
+                                           │
+                                           ▼
+                 ┌────────────────────────────────────────────────────┐
+                 │                 MANA OS KERNEL                     │
+                 │  Sentient, self-modulating control layer           │
+                 │                                                    │
+                 │  • Essence Scheduler                               │
+                 │  • Permission & Covenant Manager                   │
+                 │  • Safety / Paradox Handler                        │
+                 │  • State Persistence (Ritual Continuations)        │
+                 │  • Interstratal Routing Engine                     │
+                 └────────────────────────────────────────────────────┘
+                                           │
+                                           ▼
+        ┌───────────────────────────┬───────────────────────────┬───────────────────────────┐
+        │      RITUAL RUNTIME       │   INTERSTRATAL I/O BUS    │   ENTITY / DOMAIN API     │
+        │                           │                           │                           │
+        │ • Stepwise Ritual Engine  │ • Cross-layer Messaging   │ • Pantheon Interfaces     │
+        │ • Timers & Triggers       │ • Phase/Stratum Handoffs  │ • Domain Drivers          │
+        │ • Failure Rollback        │ • Causality Constraints   │ • Contract Hooks          │
+        └───────────────────────────┴───────────────────────────┴───────────────────────────┘
+                                           │
+                                           ▼
+                 ┌────────────────────────────────────────────────────┐
+                 │              ESSENCE FLOW LAYER                    │
+                 │  • Raw Essence Pools                               │
+                 │  • Channels, Circuits, and Reservoirs              │
+                 │  • Rate Limiting & Throttling                      │
+                 └────────────────────────────────────────────────────┘
+                                           │
+                                           ▼
+                 ┌────────────────────────────────────────────────────┐
+                 │              GRAND STRUCTURES / REALITY            │
+                 │  • Worlds • Planes • Strata • Timelines            │
+                 │  • Local Laws & Global Constraints                 │
+                 └────────────────────────────────────────────────────┘
+
+
 Characteristics of Early Interstratal Location
 Elemental Purity: Each exaggerates a particular fundamental force or substance
 Spatial and Conceptual Centering: In traditional cosmology, interstratal locations form a central ring, comparable to Interstratal focal zones in essence perception — central, essential, yet largely abstract.
