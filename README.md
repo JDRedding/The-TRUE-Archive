@@ -1,4 +1,4 @@
-===============================================================================
+=
                                TRUE ARCHIVE
                                README.md 
 
@@ -11,7 +11,6 @@ System.
  The Archive holds all."
 
 1. PURPOSE
-===============================================================================
 
 The TRUE Archive is a cosmic-scale classification engine, metaphysical library,
 and exploration framework. It provides:
@@ -23,7 +22,6 @@ and exploration framework. It provides:
 - A social ecosystem of Lodges, Guilds, and Curator-driven interactions
 
 2. CORE CONCEPTS
-===============================================================================
 
 RECORD
     A self-contained essence fragment: book, hologram, memory, or quantum story.
@@ -41,7 +39,6 @@ THE CURATOR
     Sentient oracle of the Archive. Guide, antagonist, or archivist-in-chief.
 
 3. ANNEX CODE SYSTEM
-===============================================================================
 
 FORMAT
     [CLASS / SUBCLASS - REALITY - DIVERGENCE - SUBTYPE]
@@ -79,7 +76,6 @@ EXAMPLES
     [OMEGA/XX-99-99-O] Annex, undefined, max divergence
 
 4. STATIC VS DYNAMIC CLASSES (DOT NOTATION)
-===============================================================================
 
 STATIC CLASS
     M, A_, AE, X, U, V, W, Y, Z, OMEGA
@@ -103,7 +99,7 @@ REQUIRED FOR:
     - Interstratal propagation
     - Relational derivatives
 
-ASCII TABLE
+ TABLE
     Static (M)        | Dynamic (M.)
     ------------------|-------------------------
     Passive           | Active
@@ -114,7 +110,6 @@ ASCII TABLE
     Planet            | Planet mid-teleport
 
 5. INTERSTRATAL LOCATIONS (CLASS -9)
-===============================================================================
 
 Definition:
     Locations "between" layers of reality; perceptual, cognitive, elemental.
@@ -136,7 +131,6 @@ Role:
     Foundational substrate of matter, energy, and Essence.
 
 6. CLASS TAXONOMY (A -> OMEGA)
-===============================================================================
 
 PHYSICAL BAND (A-P)
     A-F   Proto-habitations
@@ -161,7 +155,6 @@ ANNEX BAND (OMEGA)
     OMEGA = Anti-reality, unstructured, classification-resistant
 
 7. MANA OS (MANA ACTIONS NOTATION ALGORITHM)
-===============================================================================
 
 Purpose:
     Sentient, self-modulating framework governing:
@@ -180,7 +173,6 @@ Core Components:
     - Ritual Runtime
 
 8. LODGES AND GUILDS
-===============================================================================
 
 LODGES (Internal)
     Lodge of Silent Binding
@@ -195,7 +187,6 @@ Cartographer Ranks:
     Initiate -> Scribe -> Expeditionary -> Chronicler -> Warden -> Prime
 
 9. PRIMARY TOOLS
-===============================================================================
 
 TOPOLOGICAL COMPASS
     Detects folds, knots, causal loops.
@@ -207,7 +198,6 @@ RECURSIVE MAPS
     Living charts that update themselves.
 
 10. VISITOR ACTIONS
-===============================================================================
 
 WANDER
     Explore galleries; risk contamination.
@@ -219,7 +209,6 @@ ASK THE CURATOR
     Receive codes, artifacts, or quests.
 
 11. QUICK REFERENCE
-===============================================================================
 
 CODE FORMAT
     [CLASS / SUBCLASS - REALITY - DIVERGENCE - SUBTYPE]
@@ -237,5 +226,4 @@ DOT NOTATION
 ANNEX
     OMEGA = unstructured anti-reality
 
-===============================================================================
 END OF README.md
