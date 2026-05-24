@@ -1,6 +1,4 @@
-=
-                               TRUE ARCHIVE
-                               README.md 
+TRUE ARCHIVE : README.md 
 
 A trans-dimensional repository documenting every possible (and impossible)
 reality, timeline, and existence. Maintained by Archivists, explored by
