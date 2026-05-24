@@ -279,12 +279,12 @@ SUBTYPE = a–z / 0–9 (theme, flavor, or cultural mode)
 SUBCLASS Definition,/0 = proximity to baseline
 01 minor, 50 major, 99 unrecognizable
 Logarithmic scale
-00  = identical to baseline  
-01–10 = minor changes (alt‑history, soft magic)  
-11–30 = moderate changes (rare magic, altered species)  
-31–60 = major changes (non‑human dominant, altered constants)  
-61–90 = radical changes (physics rewritten, logic drift)  
-91–99 = unrecognizable (song‑logic, circular time, conceptual entities)
+00  	= identical to baseline  
+01–10 	= minor changes (alt‑history, soft magic)  
+11–30 	= moderate changes (rare magic, altered species)  
+31–60 	= major changes (non‑human dominant, altered constants)  
+61–90 	= radical changes (physics rewritten, logic drift)  
+91–99 	= unrecognizable (song‑logic, circular time, conceptual entities)
 
 Class Overlaps, Class Y appears in two places (Extreme Band and Hazard Class), intentional overlap left for description to clarify hierarchy overlap.
 Class Y is the only class that spans both the Extreme Band and the Hazard Band.
@@ -346,12 +346,12 @@ DIVERGENCE (00–99): Deviation from expected physics/logic
 SUBTYPE (a–z / 0–9): Thematic or cultural flavor
 
 SUBCLASS SCALE (LOGARITHMIC)
-00 = identical to baseline
-01–10 = minor changes
-11–30 = moderate changes
-31–60 = major changes
-61–90 = radical changes
-91–99 = unrecognizable
+00 		= identical to baseline
+01–10 	= minor changes
+11–30 	= moderate changes
+31–60 	= major changes
+61–90 	= radical changes
+91–99 	= unrecognizable
 
 CLASS Y (DUAL-NATURE)
 Y-Physical (Extreme Band): Hazardous physical environments
@@ -446,35 +446,45 @@ Forbidden from touching any Annex artifact or entering even Class U–Z realitie
 Common Trial: Survive 72 hours observing a single Recursive Map without losing object permanence.
 
 2. Scribe
-“We record what should not be seen.”  
+
+		“We record what should not be seen.”   
+
 Trusted with cataloging low-to-mid divergence Echoes brought back by higher ranks.  
 Allowed limited access to Class W and X records under supervision.  
 Begin training with basic Topological Compasses and Echo-Veils.  
 Many Scribes spend years redacting their own memories after their first true exposure.
 
 3. Expeditionary
-“We walk the direction that should not exist.”  
+
+			“We walk the direction that should not exist.” 
+
 The backbone of the Guild. Authorized for active fieldwork in Class U–Z and select Ω-fringe realities.  
 Issued standard toolkits: Topological Compass, Paradox Sextant, and basic Echo-Veil.  
 Expected to return with at least one viable map fragment per mission.  
 Highest attrition rate of any Guild rank. Survivors often bear visible topological scars (skin that folds unnaturally).
 
 4. Chronicler
-“We make the unmappable... legible.”  
+
+			“We make the unmappable... legible.”  
+
 Elite record-keepers who translate Annex experiences into Archive-compatible formats.  
 Can alter minor records and stabilize small timeline fractures.  
 Granted access to the Null Quill and advanced Recursive Maps.  
 Many develop the ability to “speak in glyphs” — communicating complex Ω-topologies without words.
 
 5. Warden
-“We guard the threshold so others may cross it.”  
+
+			“We guard the threshold so others may cross it.”  
+
 Senior field commanders who oversee Annex access gates and major mapping expeditions.  
 Responsible for quarantining cognitohazards and training new Expeditionaries.  
 Carry personalized artifacts (often a fully sentient Recursive Map or custom Paradox Sextant).  
 Authority to seal or unseal specific Ω-class wings.
 
 6. Prime
-“The Map and the Cartographer become one.”  
+
+			“The Map and the Cartographer become one.”  
+
 There is only one Prime per Guild at any time.  
 The current Prime of the Annex Cartographers is known only as The Folded Cartographer (real name redacted even from most Wardens).  
 Negotiates directly with the Curator. Holds the master key to the deepest Annex vaults.  
@@ -489,14 +499,16 @@ Topological Compasses
 --
 These do not point north — they point toward least resistance in essence geometry.  Appearance: A brass-and-crystal sphere filled with slowly rotating liquid starlight and tiny moving glyphs.  
 Function: Detects folds, self-intersections, and causal knots in reality. It can show the “shortest path” through a looping timeline or a reality that has been crumpled like paper.  
+
 Risk: Prolonged use may cause the user to perceive all straight lines as lies. Some Cartographers return unable to walk in Euclidean space without vertigo.  
+
 Guild Rank Required: Expeditionary or higher.
 
 Mechanics:
-Short Range (100m): Reveals safe paths (⟐), unstable routes (⟁).
-Long Range (1km): Detects Annex proximity (⧉).
-Overuse: User perceives all lines as curved (lasts for days).
-Critical Failure: User becomes a non-Euclidean entity (permanent).
+Short Range (100m)	: Reveals safe paths (⟐), unstable routes (⟁).
+Long Range (1km)	: Detects Annex proximity (⧉).
+Overuse				: User perceives all lines as curved (lasts for days).
+Critical Failure	: User becomes a non-Euclidean entity (permanent).
 
 Paradox Sextants
 --
@@ -505,9 +517,9 @@ Special Ability: Can temporarily stabilize a collapsing Ω-reality long enough t
 Drawback: Each successful use slightly increases the probability that the user becomes a paradox themselves.
 
 Mechanics:
-Success: Stabilizes one Ω-reality for minutes.
-Failure: User gains a paradox trait (e.g., "exists in two places at once").
-Critical Failure: User becomes a paradox (discretion).
+Success				: Stabilizes one Ω-reality for minutes.
+Failure				: User gains a paradox trait (e.g., "exists in two places at once").
+Critical Failure	: User becomes a paradox (discretion).
 
 Recursive Maps
 --
@@ -535,7 +547,9 @@ Many senior Cartographers carry journals full of pages they can no longer read.
 
 3. Guild of Mechanicus Engineers
 ----------------------------------
-“Every world is a machine. Every plane is a gear.”
+
+				“Every world is a machine. Every plane is a gear.”
+
 Role: Repair broken timelines, patch causality leaks, stabilize story‑logic.
 Tools: Causal rivets, plot‑solder, retcon stabilizers.
 Risk: Becoming a character in the world they fix.
@@ -544,12 +558,12 @@ Prestige: Universes sometimes worship them as gods.
 🜃 Cross‑Order Structure
 ------------------------
 Ranks (Shared Across All Lodges & Guilds)
-Initiate — Allowed to observe but not touch records.
-Scribe — Can handle Class A–M records.
-Expeditionary — Authorized for fieldwork in divergent realities.
-Chronicler — Writes official Archive entries; can alter minor records.
-Warden — Oversees a Gallery, Observatory, or Annex gate.
-Prime — One per Lodge/Guild; negotiates with the Curator.
+Initiate 		— Allowed to observe but not touch records.
+Scribe 			— Can handle Class A–M records.
+Expeditionary 	— Authorized for fieldwork in divergent realities.
+Chronicler 		— Writes official Archive entries; can alter minor records.
+Warden 			— Oversees a Gallery, Observatory, or Annex gate.
+Prime 			— One per Lodge/Guild; negotiates with the Curator.
 
 Rank 			Internal Lodges, Guilds, External Orders		Privileges 	 				Costs/Risks
 Initiate 		Observer, 	Apprentice,	Spark 					Access to safe records 		None
@@ -592,12 +606,12 @@ A nomadic order of cosmic accountants who track causal debt across universes.
 	Relationship to Archive: Neutral; they trade information for access.
 	Threat	: If they declare a universe “insolvent,” they attempt collapse it.
 
-Aspect		TRUE Archive				Ledger Inquisition
-Scope,		Multiversal				Galactic focus
-Threats		Reality anomalies, cognitohazards	Chaos, Heresy, Xenos
+Aspect		TRUE Archive							Ledger Inquisition
+Scope,		Multiversal								Galactic focus
+Threats		Reality anomalies, cognitohazards		Chaos, Heresy, Xenos
 Methods		Classification, mapping, observation	Purge, exterminate, burn
-Factions	Lodges & Guilds (diverse)		Ordos (specialized)
-Tone		Mystical + systematic			Grimdark + fanatical
+Factions	Lodges & Guilds (diverse)				Ordos (specialized)
+Tone		Mystical + systematic					Grimdark + fanatical
 
 2. The Lodge of the Pale Forge
 ------------------------------
@@ -724,10 +738,10 @@ The Cartographers protects reality from anomalies — and sometimes protects ano
 Departments
 The Cartographers are divided into specialized divisions, including:
 
-	Survey Corps		: Scientific Department 	— research, analysis, experimentation
-	Redaction Bureau	: Security Department 		— facility protection, internal security
+	Survey Corps			: Scientific Department 	— research, analysis, experimentation
+	Redaction Bureau		: Security Department 		— facility protection, internal security
 	Containment Engineers	: Department of Force 		— tactical operations
-	Conclave		: Administration  		— logistics, records, oversight
+	Conclave				: Administration  			— logistics, records, oversight
 
 1. The Survey Corps
 Field agents who locate anomalies.
@@ -1016,10 +1030,10 @@ A complete symbolic language for cross‑reality fieldwork
 
 Categories Organized:
 
-Path Glyphs 		⟐, ⟡, ⟁, ⧖, ⧗, ⟊, ⟫, ⟦⟧, ⟠	
-Hazard Glyphs 		⟁, ⌰, ⧉, ⟞, ⟜, ⟡̸, ⟢, ⟗, ⟤, ⟬	
-Record Glyphs 		⧈, ⧇, ⧅, ⧉̱, ⧂, ⧃, ⧀, ⧑, ⧒	
-Intent Glyphs 		⟟, ⟢̱, ⟣, ⟤̱, ⟧, ⟨, ⟩, ⟪, ⟫̱	
+Path Glyphs 			⟐, ⟡, ⟁, ⧖, ⧗, ⟊, ⟫, ⟦⟧, ⟠	
+Hazard Glyphs 			⟁, ⌰, ⧉, ⟞, ⟜, ⟡̸, ⟢, ⟗, ⟤, ⟬	
+Record Glyphs 			⧈, ⧇, ⧅, ⧉̱, ⧂, ⧃, ⧀, ⧑, ⧒	
+Intent Glyphs 			⟟, ⟢̱, ⟣, ⟤̱, ⟧, ⟨, ⟩, ⟪, ⟫̱	
 Entity/Annex Glyphs 	⟬̱, ⟭, ⧉, ⧋, ⧌, ⧍, ⧎, ⧏, ⧐	
 
 Glyphs are topological packets of meaning, not letters.
@@ -1188,15 +1202,15 @@ How glyphs combine into meaning
 
 Glyphs follow a simple grammar:
 
-	Primary glyph 		= subject
-	Meta‑glyph 		= modifier
-	Composite glyph 	= fused meaning
-	Sequence 		= instruction chain
+	Primary glyph 			= subject
+	Meta‑glyph 				= modifier
+	Composite glyph 		= fused meaning
+	Sequence 				= instruction chain
 	Orientation (rotation) 	= emotional or urgency tone
-	Stroke weight 		= intensity
+	Stroke weight 			= intensity
 
 Example:
-			   ⧈◬ ⟟ ⟤̱  
+			   			⧈◬ ⟟ ⟤̱  
 	= “Time‑spread record. Do not observe. Withdraw.”
 
 🜃 The Galactic Encyclopedia (Galactica Library)
@@ -1206,11 +1220,11 @@ The Galactic Encyclopedia is the public‑facing knowledge system — a curated,
 
 Encyclopedia Structure
 
-Aspect		TRUE Archive			Galactica Library
-Structure	Hierarchical (Annex Codes)	Infinite, random hexagons
-Content		All possible realities		All possible books
+Aspect		TRUE Archive					Galactica Library
+Structure	Hierarchical (Annex Codes)		Infinite, random hexagons
+Content		All possible realities			All possible books
 Access		Curator-mediated, risk-based	Random,  endless
-Purpose		Exploration & preservation	Existential despair
+Purpose		Exploration & preservation		Existential despair
 
 Volume I: Cosmography  
 Star classes, planetary classifications (A–Y), stellar evolution, void‑phenomena.
@@ -1223,26 +1237,26 @@ Major events across realities, cross‑universal migrations, extinction records.
 Volume V: Entities  
 Curators, Archivists, external Lodges, cosmic predators, mythic beings.
 
-Divisions			Galactica Content						Access 		Level
+Divisions				Galactica Content										Access 		Level
 I	: Cosmography		Star classes, planetary types (A–Y), void phenomena		Public
-II	: Civilizations		Species, cultures, tech tiers, mythologies			Public
-III	: Phenomena		Wormfolds, Echo storms, paradox wells				Restricted 	(Scribe+)
-IV	: Histories		Major events, migrations, extinctions				Restricted 	(Chronicler+)
-V	: Entities		Curators, Archivists, external Lodges, cosmic predators		Redline 	(Warden+)
-VI	: Annex			Unclassifiable records						Ω-Black		(Curator)
+II	: Civilizations		Species, cultures, tech tiers, mythologies				Public
+III	: Phenomena			Wormfolds, Echo storms, paradox wells					Restricted 	Scribe+
+IV	: Histories			Major events, migrations, extinctions					Restricted 	Chronicler+
+V	: Entities			Curators, Archivists, external Lodges, cosmic predators	Redline 	Warden+
+VI	: Annex				Unclassifiable records									Ω-Black		Curator
 
 Access Levels
-Public: Class A–M entries; safe, stable, non‑paradoxical.
-Restricted: Divergence 20–60; requires Scribe clearance.
-Redline: Divergence 60–99; requires Curator approval.
-Ω‑Black: Annex‑only; not included in the Encyclopedia (but referenced cryptically).
+Public		: Class A–M entries; safe, stable, non‑paradoxical.
+Restricted	: Divergence 20–60; requires Scribe clearance.
+Redline		: Divergence 60–99; requires Curator approval.
+Ω‑Black		: Annex‑only; not included in the Encyclopedia (but referenced cryptically).
 
 Encyclopedia Features
-Auto‑Updating: Syncs with new records as they are archived.
-Cross‑Reality Indexing: Entries link to Annex Codes.
-Echo‑Safe Formatting: Designed to avoid psychic feedback.
-Visitor Mode: Simplified, metaphor‑based explanations.
-Scholar Mode: Raw data, glyphs, and cross‑references.
+Auto‑Updating			: Syncs with new records as they are archived.
+Cross‑Reality Indexing	: Entries link to Annex Codes.
+Echo‑Safe Formatting	: Designed to avoid psychic feedback.
+Visitor Mode			: Simplified, metaphor‑based explanations.
+Scholar Mode			: Raw data, glyphs, and cross‑references.
 
 Contracts, Bounties & Offers
 ----------------------------
@@ -1365,12 +1379,12 @@ Offers are the safest way to interact with unknown powers — but also the easie
 ---
 How Contracts, Bounties, and Offers interact
 
-Type			Issued By			Example				Reward
+Type					Issued By					Example							Reward
 
-Containment Contract	Containment Cartographers	Seal a Class Y reality		Echo-forged artifact
-Redaction Bounty	Wandering Ledger		Erase knowledge of a paradox	Causal debt forgiveness
-Survey Offer		Annex Cartographers		Map a Class W reality		Topological Compass
-Apex-Class Bounty	Curator				Neutralize multiversal threat	Prime status
+Containment Contract	Containment Cartographers	Seal a Class Y reality			Echo-forged artifact
+Redaction Bounty		Wandering Ledger			Erase knowledge of a paradox	Causal debt forgiveness
+Survey Offer			Annex Cartographers			Map a Class W reality			Topological Compass
+Apex-Class Bounty		Curator						Neutralize multiversal threat	Prime status
 
 Offers → Contracts
 	An Offer becomes a Contract when sealed with a glyph.
@@ -1532,11 +1546,11 @@ Major Types of External Bounties
 --
 External bounties include:
 
-	Issuer Mark 		— symbol of the Lodge/Guild
+	Issuer Mark 			— symbol of the Lodge/Guild
 	Target Reality Code 	— not Annex Code; external systems vary
-	Hazard Tier 		— mythic, causal, temporal, or existential
-	Reward Vector 		— cycles, favors, physics, or sanctuary
-	Failure Cost 		— often irreversible
+	Hazard Tier 			— mythic, causal, temporal, or existential
+	Reward Vector 			— cycles, favors, physics, or sanctuary
+	Failure Cost 			— often irreversible
 
 Some bounties are predatory:
 
@@ -1558,14 +1572,14 @@ Curator’s Shadow (counter‑intelligence)
 Silent Binding (contract containment)
 First Lens (external hazard analysis)
 
-Aspect		Archive					Lodge Foundations
+Aspect			Archive								Lodge Foundations
 
-Purpose		Preserve & explore all realities	Anomalies Focus
+Purpose			Preserve & explore all realities	Anomalies Focus
 Classification	Annex Codes (structured hierarchy)	Object Classes
-Factions	Lodges & Guilds				Mostly internal
-Tone		Mystical + scientific			Clinical + bureaucratic
+Factions		Lodges & Guilds						Mostly internal
+Tone			Mystical + scientific				Clinical + bureaucratic
 Visitor Role	Expeditionaries, Scholars, Visitors	Personnel, Researchers
-Anomalies	Realities, timelines, records		Objects, entities, phenomena
+Anomalies		Realities, timelines, records		Objects, entities, phenomena
 
 ---
 
