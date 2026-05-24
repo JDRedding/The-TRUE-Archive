@@ -1,7 +1,6 @@
 ===============================================================================
                                TRUE ARCHIVE
                                README.md 
-===============================================================================
 
 A trans-dimensional repository documenting every possible (and impossible)
 reality, timeline, and existence. Maintained by Archivists, explored by
@@ -11,7 +10,6 @@ System.
 "The past is a story we tell ourselves. The future is what we record.
  The Archive holds all."
 
-===============================================================================
 1. PURPOSE
 ===============================================================================
 
@@ -24,7 +22,6 @@ and exploration framework. It provides:
 - A metaphysical OS (MANA OS) for rituals and Essence flow
 - A social ecosystem of Lodges, Guilds, and Curator-driven interactions
 
-===============================================================================
 2. CORE CONCEPTS
 ===============================================================================
 
@@ -43,7 +40,6 @@ THE ANNEX
 THE CURATOR
     Sentient oracle of the Archive. Guide, antagonist, or archivist-in-chief.
 
-===============================================================================
 3. ANNEX CODE SYSTEM
 ===============================================================================
 
@@ -82,7 +78,6 @@ EXAMPLES
     [A_/05-80-30-b]    Mythic, high magic, post-apocalyptic
     [OMEGA/XX-99-99-O] Annex, undefined, max divergence
 
-===============================================================================
 4. STATIC VS DYNAMIC CLASSES (DOT NOTATION)
 ===============================================================================
 
@@ -118,7 +113,6 @@ ASCII TABLE
     Contained         | Propagating
     Planet            | Planet mid-teleport
 
-===============================================================================
 5. INTERSTRATAL LOCATIONS (CLASS -9)
 ===============================================================================
 
@@ -141,7 +135,6 @@ Mapping:
 Role:
     Foundational substrate of matter, energy, and Essence.
 
-===============================================================================
 6. CLASS TAXONOMY (A -> OMEGA)
 ===============================================================================
 
@@ -167,7 +160,6 @@ META-REALITY BAND (U-Z)
 ANNEX BAND (OMEGA)
     OMEGA = Anti-reality, unstructured, classification-resistant
 
-===============================================================================
 7. MANA OS (MANA ACTIONS NOTATION ALGORITHM)
 ===============================================================================
 
@@ -187,7 +179,6 @@ Core Components:
     - Interstratal Routing Engine
     - Ritual Runtime
 
-===============================================================================
 8. LODGES AND GUILDS
 ===============================================================================
 
@@ -203,7 +194,6 @@ GUILDS (Expeditionary)
 Cartographer Ranks:
     Initiate -> Scribe -> Expeditionary -> Chronicler -> Warden -> Prime
 
-===============================================================================
 9. PRIMARY TOOLS
 ===============================================================================
 
@@ -216,7 +206,6 @@ PARADOX SEXTANT
 RECURSIVE MAPS
     Living charts that update themselves.
 
-===============================================================================
 10. VISITOR ACTIONS
 ===============================================================================
 
@@ -229,7 +218,6 @@ STUDY A RECORD
 ASK THE CURATOR
     Receive codes, artifacts, or quests.
 
-===============================================================================
 11. QUICK REFERENCE
 ===============================================================================
 
@@ -251,4 +239,3 @@ ANNEX
 
 ===============================================================================
 END OF README.md
-===============================================================================
