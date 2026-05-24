@@ -88,14 +88,14 @@ M	= Class M (static modal category)
 Ṁ	= Activated M (dynamic operator state)
 
 The Dot Notation (˙): Dynamic Operator States
-In The TRUE Archive, the dot (˙) above a class symbol (e.g., Ṁ, Ȧ̱, Ẋ) denotes its **activated, process-state form.
+In The TRUE Archive, the dot (˙) above a class symbol (e.g., Ṁ, Ȧ̱, Ẋ) denotes its activated, process-state form.
 
-   Static Class 	| Dynamic Class 	| Purpose
- |------------------	|-------------------	|-------------
- | M			| Ṁ			| Earth-like reality in active operation (rituals, essence flow). 
- | A̱ 			| Ȧ̱			| Mythic reality executing divine operations. 
- | X 			| Ẋ			| Xenoreality actively resisting classification. 
- | Ω 			| Ω̇			| Annex reality in the process of assimilating observers. 
+   Static Class 			| Dynamic Class 		| Purpose
+ |------------------		|-------------------	|-------------
+ | M						| Ṁ						| Earth-like reality in active operation (rituals, essence flow). 
+ | A̱ 						| Ȧ̱						| Mythic reality executing divine operations. 
+ | X 						| Ẋ						| Xenoreality actively resisting classification. 
+ | Ω 						| Ω̇						| Annex reality in the process of assimilating observers. 
 
 Rule: All MANA OS operations, rituals, and interstratal interactions require dynamic (dotted) classes.
 
@@ -111,7 +111,7 @@ Ṁ is required for:
 M is a type. Ṁ is an action. The dot notation (˙) is the classification system from static taxonomy into a dynamic operational framework.
 
 THE DOT (˙) =  OPERATOR
-Symbol	Meaning				Role      
+Symbol	Meaning						Role      
 M     	Static Modal Category      	Classifies what a reality is      
 Ṁ     	Dynamic Operator State     	Classifies how a reality behaves     
   
@@ -121,7 +121,7 @@ The dot (˙) denotes:
 : Runtime (definition → execution)
 : Flow (state → transition)
 
-   Aspect          	| Static Class (M) 	| Dynamic Class (Ṁ) 
+   Aspect          		| Static Class (M) 		| Dynamic Class (Ṁ) 
  |----------------------|----------------------	|------------------------
  | State            	| Passive, defined    	| Active, executing      
  | Essence Flow     	| None                 	| Channeling            
@@ -131,9 +131,13 @@ The dot (˙) denotes:
  | Example          	| A planet             	| A planet mid-teleport
 
 Characteristics of Early Interstratal Location
+---
 Elemental Purity: Each exaggerates a particular fundamental force or substance
+
 Spatial and Conceptual Centering: In traditional cosmology, interstratal locations form a central ring, comparable to Interstratal focal zones in essence perception — central, essential, yet largely abstract.
+
 Relative Accessibility: Border regions are more hospitable and perceptually familiar, allowing expeditionaries to cognitively perceive them, while deeper regions are increasingly alien.
+
 Inhabitants and Ecology: Interstratal location natives are specialized for survival within their environment. Interstratal locations emphasize ecological and physical extremes rather than ethical frameworks.
 
 Permeable Boundaries: The notion of interstratal location intersections (e.g., para-plane dimensions) 
