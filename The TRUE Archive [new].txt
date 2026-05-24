@@ -25,7 +25,7 @@ Physical/Metaphysical Layout
 |
 | Observatories 
 | Isolated chambers for studying high-risk or unstable records.                   
-| Requires special permissions (e.g., high "Sanity" or "Lore" stats in TRUE).      
+| Requires special permissions (e.g., high "Essence" or "Lore" stats in TRUE).      
 |
 | The Annex    
 | The classified wing for realities too alien to safely categorize.               
@@ -79,69 +79,6 @@ Mapping (Model, approximate)
 Class A̱: Mythic (primordial-dominant); 𐤀 are the oldest locations and carries the meaning of “origin, foundation”.
 Class Æ: Magic (ritual-dominant); Active aetheric forces and operations; The “call” or “invoke” operator in MANA OS interactions, primary energy forms (Positive Energy, Negative Energy)
 Class Ṁ: Mana  (Energetic-dominant); Raw energy locations; Flow, charge, vitality substrate “fuel” layer of MANA OS; These include pure elements (Air, Earth, Fire, Water), Para-elemental or quasi-elemental planes, representing intersections of elements or element-energy combinations (e.g., Smoke between Air and Fire, Frost between Water and Air).
-
-MANA OS (M.A.N.A. O.S.)
-MANA Actions Notation Algorithm — Operating System
-The sentient, self‑modulating framework that governs Essence flow, ritual execution, and reality‑layer interaction across all grand structures. MANA OS interprets, routes, and stabilizes metaphysical operations, acting as both compiler and runtime for all encoded magical actions.
-
-                         ┌─────────────────────────────────────┐
-                         │             OPERATORS               │
-                         │  Casters • Priests • Sys-Mages      │
-                         └─────────────────────────────────────┘
-                                           │
-                                           ▼
-                         ┌─────────────────────────────────────┐
-                         │        MANA ACTIONS LAYER           │
-                         │  M.A.N.A. Notation & Script Input   │
-                         │  • Spell Programs                   │
-                         │  • Ritual Specs                     │
-                         │  • Contractual Invocations          │
-                         └─────────────────────────────────────┘
-                                           │
-                                           ▼
-                 ┌────────────────────────────────────────────────────┐
-                 │            INTERPRETER / COMPILER CORE             │
-                 │  • Syntax & Type Checking (Ritual Semantics)       │
-                 │  • Optimization (Essence Cost, Risk, Latency)      │
-                 │  • Binding to Entities, Domains, and Strata        │
-                 └────────────────────────────────────────────────────┘
-                                           │
-                                           ▼
-                 ┌────────────────────────────────────────────────────┐
-                 │                 MANA OS KERNEL                     │
-                 │  Sentient, self-modulating control layer           │
-                 │                                                    │
-                 │  • Essence Scheduler                               │
-                 │  • Permission & Covenant Manager                   │
-                 │  • Safety / Paradox Handler                        │
-                 │  • State Persistence (Ritual Continuations)        │
-                 │  • Interstratal Routing Engine                     │
-                 └────────────────────────────────────────────────────┘
-                                           │
-                                           ▼
-        ┌───────────────────────────┬───────────────────────────┬───────────────────────────┐
-        │      RITUAL RUNTIME       │   INTERSTRATAL I/O BUS    │   ENTITY / DOMAIN API     │
-        │                           │                           │                           │
-        │ • Stepwise Ritual Engine  │ • Cross-layer Messaging   │ • Pantheon Interfaces     │
-        │ • Timers & Triggers       │ • Phase/Stratum Handoffs  │ • Domain Drivers          │
-        │ • Failure Rollback        │ • Causality Constraints   │ • Contract Hooks          │
-        └───────────────────────────┴───────────────────────────┴───────────────────────────┘
-                                           │
-                                           ▼
-                 ┌────────────────────────────────────────────────────┐
-                 │              ESSENCE FLOW LAYER                    │
-                 │  • Raw Essence Pools                               │
-                 │  • Channels, Circuits, and Reservoirs              │
-                 │  • Rate Limiting & Throttling                      │
-                 └────────────────────────────────────────────────────┘
-                                           │
-                                           ▼
-                 ┌────────────────────────────────────────────────────┐
-                 │              GRAND STRUCTURES / REALITY            │
-                 │  • Worlds • Planes • Strata • Timelines            │
-                 │  • Local Laws & Global Constraints                 │
-                 └────────────────────────────────────────────────────┘
-
 
 Characteristics of Early Interstratal Location
 Elemental Purity: Each exaggerates a particular fundamental force or substance
@@ -286,7 +223,7 @@ Classes consider age, location, surface conditions, atmosphere composition, and 
 TRUE Code Utility
 - Conversion Tool: Use codes to map characters/items between systems, with minor adjustments.
 - Random Generation: Generate codes for solo recording.
-- Sanity/Strain Mechanic: Observing high-DIVERGENCE codes impose penalties.
+- Essence (Sanity)/Strain Mechanic: Observing high-DIVERGENCE codes impose penalties.
 
 Timeline Data
 <RECORD type="DIVERGENCE-MAP">
@@ -377,7 +314,7 @@ Records actively resist containment
 Concepts, Matters, Additions
 What is a "Record"? Core archival unit; A Record is a self-contained essence fragment: a book, hologram, living memory, or quantum-encoded story that preserves a moment, entity, or timeline.
 
-How do Observatories work? Describe Sanity-preserving protocols, lens-geometry, observer-paradox mitigation.
+How do Observatories work? Sanity/Essence-preserving protocols, lens-geometry, observer-paradox mitigation.
 
 What is "Contamination"? Risk of intervention; Exists as tiers of contamination (e.g., Minor: Localized timeline drift, Major: Reality rupture, Catastrophic: Annex breach).
 
@@ -461,7 +398,7 @@ Cost: Gradual loss of personal memories (the Lodge calls this “donation”).
 			“Observation is creation.”
 
 Role: Overseers of Observatories; experts in high‑Divergence study.
-Specialty: Sanity‑preserving viewing protocols, lens‑geometry, observer‑paradox mitigation.
+Specialty: Sanity/Essence‑preserving viewing protocols, lens‑geometry, observer‑paradox mitigation.
 Perk: Can view Annex‑tier realities without immediate rupture.
 Cost: Members slowly become partially transparent.
 
@@ -933,8 +870,8 @@ Redaction Bounties
 	Issued to erase knowledge of dangerous events.
 	DIVERGENCE Range	Dangers			Duration
 	0–30			None,			–
-	31–60			Sanity compression,	Persists until return to Class M
-	61–90			Sanity fracture,	Requires Echo-Veil or Warden aid
+	31–60			Essence compression,	Persists until return to Class M
+	61–90			Essence fracture,	Requires Echo-Veil or Warden aid
 	91–99			Instant rupture,	Permanent unless Prime intervenes
 	Ω			Unclassifiable,		Memory loss, topological drift, or death
 
@@ -1050,7 +987,7 @@ Guide Structure
  Each Guide contains:
 
 	Protocol Sheets 	— step‑by‑step procedures.
-	Hazard Tables 		— Echo levels, rupture risks, sanity costs.
+	Hazard Tables 		— Echo levels, rupture risks, essence (sanity) costs.
 	Glyph Indexes 		— symbols used by expeditionaries.
 	Curator Notes 		— cryptic commentary, sometimes contradictory.
 	Redacted Sections 	— visible but unreadable; content unknown.
@@ -1361,7 +1298,7 @@ Contract Structure
 	Causal Anchors 		— fixed points ensuring compliance
 	Echo Signatures 	— identity markers
 	Termination Conditions 	— how the contract ends
-	Sanity Cost 		— mental strain for maintaining the pact
+	Essence Cost 		— mental strain for maintaining the pact
 
 Contracts are stored in the Lodge of Silent Binding unless they involve external Lodges.
 
