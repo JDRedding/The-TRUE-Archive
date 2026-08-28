@@ -2,7 +2,7 @@
 Annex Code : [Y/42-68-74-g]  
 
 Addendum filed: Cyclic Phenology / Visitor Protocol  
-Dynamic states now recognized:  
+Dynamic states:  
 Dormant: [Y/42-68-74-g]  
 Bloom / Feeding: [Ẏ/42-68-74-g]
 
