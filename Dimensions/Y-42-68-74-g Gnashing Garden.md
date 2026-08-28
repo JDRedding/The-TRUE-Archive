@@ -1,4 +1,4 @@
-Gnashing Garden
+# Gnashing Garden
 Annex Code : [Y/42-68-74-g]  
 
 Addendum filed: Cyclic Phenology / Visitor Protocol  
@@ -8,7 +8,7 @@ Bloom / Feeding: [Ẏ/42-68-74-g]
 
 The Gnashing Garden is not planted. It grows from appetite. A rolling, layered landscape of soil that is also muscle, vines that are also jaws, flowers that unfurl into rings of enamel. Petals click. Roots chew. The air tastes of iron and crushed chlorophyll. Every surface is dentition in some stage of eruption or wear. Trees have molars for bark. Streams run with saliva that dissolves memory before it dissolves flesh. The “fruit” is a cluster of grinding surfaces that close when an observer’s attention lingers. Physics here can be predatory rather than merely hostile. Distance is measured in bites. Time proceeds in chewing cycles. An unobserved patch of garden grows quieter and more patient; an observed patch begins to work.
 
-Dormant Cycle  
+## Dormant Cycle  
 Duration: approximately 19 local seasons (variable; lengthens after a large feeding).  
 The jaws lock. Enamel dulls to the color of old stone. Vines stiffen into trellises. Streams run clear and almost tasteless. The soil sleeps. Flowers close into hard, decorative buds that look like carved ivory.  
 
@@ -16,7 +16,7 @@ During dormancy the landscape is traversable. Paths exist. Shade exists. The gri
 
 Tourism is permitted under First Lens and Silent Binding joint charter.
 
-Bloom / Feeding Cycle  
+## Bloom / Feeding Cycle  
 Duration: 3 to 7 local seasons.  
 The garden wakes hungry. Every surface becomes dentition again. Tourism is suspended. Existing visitors are evacuated or, if they remain, become part of the next dormant season’s soil.
 
@@ -26,22 +26,22 @@ Tourism Protocol (Dormant Only)
 
 Authorized operators: Horizon Shepherds (corridor management), Guild of Mechanicus Engineers (path stabilization), Lodge of the First Lens (observation licensing).
 
-Visitor classes:
-Day pilgrims — limited to marked stone paths and the Ivory Overlook.
-Seasonal residents — permitted in the sealed dormitory pavilions built into the sleeping ridges.
-Scholars — Observatory annexes only; no unsupervised wandering after dusk.
+## Visitor classes:
+- Day pilgrims — limited to marked stone paths and the Ivory Overlook.
+- Seasonal residents — permitted in the sealed dormitory pavilions built into the sleeping ridges.
+- Scholars — Observatory annexes only; no unsupervised wandering after dusk.
 
 Required markers at every trailhead:
 
 ⟐ ⟢̱ ⟪  
 Safe passage. Observe only. Silence.
 
-Additional dormant-cycle glyphs:
+## Additional dormant-cycle glyphs:
 ⟡ — path is stable for now; follow the posted rhythm of the locked jaws.
 ⌱ — time runs slower near the largest sleeping mouths; do not nap there.
 ⧈ — record of interest; fallen enamel may be tagged, not taken.
 
-Contamination during tourism
+## Contamination during tourism
 Dormancy reduces but does not eliminate risk.
 Minor: a souvenir bud opens one tooth after the visitor returns home.
 Moderate: a tourist’s shadow develops a faint grinding sound.
@@ -49,7 +49,7 @@ Major (rare in dormancy): a visitor stays past the click. The garden does not di
 
 Silent Binding posts evacuation horns keyed to the first click. Horizon Shepherds maintain three horizon-corridors that remain open until the second click. After the second click the corridors seal.
 
-Curator’s addendum
+## Curator’s addendum
 
 The Garden is most dangerous when it is beautiful.  
 Dormancy is not kindness. It is digestion paused so the next meal can arrive on its own feet.
