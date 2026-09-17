@@ -1,20 +1,11 @@
 # RECORD DESIGNATION: **Ṁ/12‑38‑28‑s**  
 *(Dynamic Terrestrial — Roddenberry‑Optimistic Interstellar Civilization)*
 
-Breakdown
-CLASS Ṁ (Dynamic Terrestrial): Earth-like baseline with active exploration and diplomatic runtime. The dot (˙) denotes constant MANA-like operations via warp fields, transporters, and the Prime Directive framework.
-
-SUBCLASS 12 (Minor-to-moderate proximity): Very close to baseline humanity’s projected future. Recognizable cultures, ethics, and technology progression, with only light mythic/psionic overlays.
-
-REALITY 38 (Interstellar federation spanning hundreds of worlds, focused on exploration, science, and peaceful coexistence).
-
-DIVERGENCE 28 (Moderate deviation): Warp drive (faster-than-light without hyperspace mysticism), matter-energy transporters, replicators, universal translators, and subspace communication. Physics remains largely Newtonian/Einsteinian with controlled exceptions. Psionic abilities exist but are species-specific and not galaxy-dominating like the Force.
-
-SUBTYPE s (Optimistic Space Exploration / Roddenberry flavor): “Infinite Diversity in Infinite Combinations,” moral philosophy-driven plots, diplomatic first-contact, and humanity’s better angels prevailing against existential threats.
-
 ---
 
 ## 🜂 **Class: Ṁ — Dynamic Terrestrial / Warp‑Field Civilization**
+CLASS Ṁ (Dynamic Terrestrial): Earth-like baseline with active exploration and diplomatic runtime. The dot (˙) denotes constant MANA-like operations via warp fields, transporters, and the Prime Directive framework.
+
 A Class Ṁ worldline is a **baseline‑Earth analogue** whose technological substrate includes:
 - Continuous **MANA‑like operations** via warp fields, transporters, and replicators
 - Ethical runtime constraints (Prime Directive)
@@ -27,6 +18,8 @@ This class sits squarely in the **Physical Band**, with occasional **Class Q ano
 ---
 
 ## 🜁 **Subclass: 12 — Minor‑to‑Moderate Proximity to Baseline Humanity**
+SUBCLASS 12 (Minor-to-moderate proximity): Very close to baseline humanity’s projected future. Recognizable cultures, ethics, and technology progression, with only light mythic/psionic overlays.
+
 Subclass 12 worlds retain:
 - Recognizable human cultures, ethics, and institutions
 - Plausible technological progression from the 21st–23rd century
@@ -38,6 +31,8 @@ This is the “**near‑future but enlightened**” band — ideal for **baselin
 ---
 
 ## 🌌 **Reality: 38 — Interstellar Federation (Hundreds of Worlds)**
+REALITY 38 (Interstellar federation spanning hundreds of worlds, focused on exploration, science, and peaceful coexistence).
+
 Reality‑38 civilizations exhibit:
 - Multi‑species federations
 - Exploration as primary generator
@@ -49,6 +44,8 @@ This is the canonical **Roddenberry expansion arc**: curiosity → cooperation �
 ---
 
 ## 🜄 **Divergence: 28 — Moderate Technological Deviation**
+DIVERGENCE 28 (Moderate deviation): Warp drive (faster-than-light without hyperspace mysticism), matter-energy transporters, replicators, universal translators, and subspace communication. Physics remains largely Newtonian/Einsteinian with controlled exceptions. Psionic abilities exist but are species-specific and not galaxy-dominating like the Force.
+
 Divergence 28 introduces controlled exceptions to classical physics:
 - Warp drive (metric engineering, not mysticism)
 - Transporters (pattern‑state reconstruction)
@@ -63,6 +60,8 @@ Visitors may experience **“inspirational Echoes”** — a mild cognitive pull
 ---
 
 ## 🜃 **Subtype: s — Roddenberry Optimistic Exploration**
+SUBTYPE s (Optimistic Space Exploration / Roddenberry flavor): “Infinite Diversity in Infinite Combinations,” moral philosophy-driven plots, diplomatic first-contact, and humanity’s better angels prevailing against existential threats.
+
 Subtype s is defined by:
 - “Infinite Diversity in Infinite Combinations”
 - Moral‑philosophy‑driven plots
@@ -111,15 +110,11 @@ This cadence aligns with **Expansion‑dominant civilizations**.
 - **Deep Space Nine / Bajor:** Class M with spiritual wormhole nexus (Class Æ influence)
 - Numerous Class L marginal / frontier colonies and Class I ice/gas giants with stations
 
-Key Factions: United Federation of Planets, Starfleet, Klingon Empire, Romulan Star Empire, Borg Collective, Cardassian Union, Dominion, and numerous independent species.
-
-Technological Flavor: Replicators, holodecks, phasers, deflector shields, warp nacelles, tricorders — all grounded in plausible extensions of physics with occasional “technobabble” resolutions. Transporters carry minor ontological risk (pattern degradation stories).
-
-Divergence Hazards: Temporal Prime Directive violations can cause timeline forks. Q-continuum entities introduce Class W warped or Ω-adjacent unpredictability. Observing major events (e.g., Wolf 359, First Contact) risks mild “inspirational Echoes” — visitors may feel compelled to solve problems diplomatically for several cycles afterward.
-
 ---
 
 # KEY FACTIONS
+Key Factions: United Federation of Planets, Starfleet, Klingon Empire, Romulan Star Empire, Borg Collective, Cardassian Union, Dominion, and numerous independent species.
+
 - United Federation of Planets
 - Starfleet
 - Klingon Empire
@@ -134,6 +129,8 @@ Each faction maps cleanly into **Archive relational blocs**.
 ---
 
 # TECHNOLOGICAL FLAVOR
+Technological Flavor: Replicators, holodecks, phasers, deflector shields, warp nacelles, tricorders — all grounded in plausible extensions of physics with occasional “technobabble” resolutions. Transporters carry minor ontological risk (pattern degradation stories).
+
 - Warp nacelles (metric‑shear propulsion)
 - Transporters (pattern‑state reconstruction)
 - Replicators (matter‑energy synthesis)
@@ -147,6 +144,8 @@ All grounded in plausible extensions of physics with occasional “technobabble�
 ---
 
 # DIVERGENCE HAZARDS
+Divergence Hazards: Temporal Prime Directive violations can cause timeline forks. Q-continuum entities introduce Class W warped or Ω-adjacent unpredictability. Observing major events (e.g., Wolf 359, First Contact) risks mild “inspirational Echoes” — visitors may feel compelled to solve problems diplomatically for several cycles afterward.
+
 - Temporal Prime Directive violations (timeline forks)
 - Q‑continuum interventions (Class W / Ω‑adjacent unpredictability)
 - Subspace rifts
